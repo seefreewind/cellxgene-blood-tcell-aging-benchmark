@@ -1,0 +1,16 @@
+cell_type	age_group_proxy	donor_n
+T cell	annotated_other	655
+T cell	old_or_elderly	2841
+T cell	young_or_adult	326
+endothelial cell	annotated_other	903
+endothelial cell	old_or_elderly	2854
+endothelial cell	young_or_adult	139
+fibroblast	annotated_other	854
+fibroblast	old_or_elderly	1103
+fibroblast	young_or_adult	273
+macrophage	annotated_other	1101
+macrophage	old_or_elderly	1594
+macrophage	young_or_adult	336
+monocyte	annotated_other	768
+monocyte	old_or_elderly	1346
+monocyte	young_or_adult	156

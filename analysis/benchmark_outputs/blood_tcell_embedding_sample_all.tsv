@@ -1,0 +1,1076 @@
+soma_joinid	donor_id	dataset_id	assay	disease	sex	development_stage	is_primary_data	tissue_general	cell_type	numeric_age	age_group	is_disease_free	y
+107564133	BR1001	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+107891805	BR1001	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+106357891	BR1001	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+106357889	BR1001	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+107564162	BR1001	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+107564157	BR1001	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+106357903	BR1001	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+107891810	BR1001	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+87800694	BR1006	420d0f5d-b7ba-4b1e-88d0-44e9f733febd	10x 3' v3	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+88178816	BR1006	420d0f5d-b7ba-4b1e-88d0-44e9f733febd	10x 3' v3	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+88822532	BR1006	420d0f5d-b7ba-4b1e-88d0-44e9f733febd	10x 3' v3	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+88229585	BR1006	420d0f5d-b7ba-4b1e-88d0-44e9f733febd	10x 3' v3	normal	male	32-year-old stage	True	blood	T cell	32.0	young	True	0
+88356031	BR1006	420d0f5d-b7ba-4b1e-88d0-44e9f733febd	10x 3' v3	normal	male	32-year-old stage	True	blood	T cell	32.0	young	True	0
+88178803	BR1006	420d0f5d-b7ba-4b1e-88d0-44e9f733febd	10x 3' v3	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+88229574	BR1006	420d0f5d-b7ba-4b1e-88d0-44e9f733febd	10x 3' v3	normal	male	32-year-old stage	True	blood	T cell	32.0	young	True	0
+88178808	BR1006	420d0f5d-b7ba-4b1e-88d0-44e9f733febd	10x 3' v3	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+67942221	BR1012	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	33-year-old stage	True	blood	T cell	33.0	young	False	0
+68305978	BR1012	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	33-year-old stage	True	blood	T cell	33.0	young	False	0
+67859381	BR1012	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	33-year-old stage	True	blood	T cell	33.0	young	False	0
+67859351	BR1012	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	33-year-old stage	True	blood	T cell	33.0	young	False	0
+68246552	BR1012	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	32-year-old stage	True	blood	T cell	32.0	young	False	0
+67984194	BR1012	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	32-year-old stage	True	blood	T cell	32.0	young	False	0
+67859339	BR1012	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	33-year-old stage	True	blood	T cell	33.0	young	False	0
+67859390	BR1012	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	33-year-old stage	True	blood	T cell	33.0	young	False	0
+106003952	BR1026	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+107290998	BR1026	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+106231710	BR1026	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+106249216	BR1026	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+107847794	BR1026	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	29-year-old stage	True	blood	T cell	29.0	young	True	0
+106539364	BR1026	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	29-year-old stage	True	blood	T cell	29.0	young	True	0
+106003944	BR1026	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+107291001	BR1026	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+66704839	BR1030	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	29-year-old stage	True	blood	T cell	29.0	young	False	0
+67128104	BR1030	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	30-year-old stage	True	blood	T cell	30.0	young	False	0
+66335577	BR1030	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	29-year-old stage	True	blood	T cell	29.0	young	False	0
+66335575	BR1030	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	29-year-old stage	True	blood	T cell	29.0	young	False	0
+66913255	BR1030	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	30-year-old stage	True	blood	T cell	30.0	young	False	0
+66913250	BR1030	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	30-year-old stage	True	blood	T cell	30.0	young	False	0
+66385132	BR1030	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	29-year-old stage	True	blood	T cell	29.0	young	False	0
+67128109	BR1030	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	30-year-old stage	True	blood	T cell	30.0	young	False	0
+66220735	BR1033	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	34-year-old stage	True	blood	T cell	34.0	young	False	0
+66587530	BR1033	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	34-year-old stage	True	blood	T cell	34.0	young	False	0
+66220728	BR1033	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	34-year-old stage	True	blood	T cell	34.0	young	False	0
+66220738	BR1033	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	34-year-old stage	True	blood	T cell	34.0	young	False	0
+66587526	BR1033	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	34-year-old stage	True	blood	T cell	34.0	young	False	0
+66220734	BR1033	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	34-year-old stage	True	blood	T cell	34.0	young	False	0
+66587534	BR1033	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	34-year-old stage	True	blood	T cell	34.0	young	False	0
+66587537	BR1033	0a8e3443-c3e2-4918-84db-0495657d9175	10x 3' v3	cytomegalovirus infection	female	34-year-old stage	True	blood	T cell	34.0	young	False	0
+67589661	BR1051	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	27-year-old stage	True	blood	T cell	27.0	young	False	0
+68377228	BR1051	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	28-year-old stage	True	blood	T cell	28.0	young	False	0
+67589557	BR1051	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	27-year-old stage	True	blood	T cell	27.0	young	False	0
+67282891	BR1051	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	26-year-old stage	True	blood	T cell	26.0	young	False	0
+67525676	BR1051	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	27-year-old stage	True	blood	T cell	27.0	young	False	0
+67589550	BR1051	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	27-year-old stage	True	blood	T cell	27.0	young	False	0
+67589542	BR1051	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	27-year-old stage	True	blood	T cell	27.0	young	False	0
+67282862	BR1051	5fde5c9c-5b1e-4df5-982a-3f8e7635161f	10x 3' v3	cytomegalovirus infection	male	26-year-old stage	True	blood	T cell	26.0	young	False	0
+106833625	BR1056	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	27-year-old stage	True	blood	T cell	27.0	young	True	0
+106934787	BR1056	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+107615922	BR1056	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+107678379	BR1056	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+108202552	BR1056	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	27-year-old stage	True	blood	T cell	27.0	young	True	0
+106833635	BR1056	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	27-year-old stage	True	blood	T cell	27.0	young	True	0
+106934792	BR1056	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+106934779	BR1056	46104f0b-9af5-466a-ae0f-56b8dc1969a2	10x 3' v3	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+91374107	BR2003	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+91720084	BR2003	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+91720105	BR2003	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+90555886	BR2003	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+91374113	BR2003	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+90555881	BR2003	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+91606199	BR2003	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+91001871	BR2003	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+102982610	BR2004	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+101768411	BR2004	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+101768417	BR2004	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102982612	BR2004	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+101768409	BR2004	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102982619	BR2004	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102982617	BR2004	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+101768408	BR2004	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+74429026	BR2009	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74956813	BR2009	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74956826	BR2009	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74429020	BR2009	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74546652	BR2009	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74956814	BR2009	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74956802	BR2009	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74956815	BR2009	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+103185894	BR2010	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+103219740	BR2010	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	61-year-old stage	True	blood	T cell	61.0	old	False	1
+103456933	BR2010	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	61-year-old stage	True	blood	T cell	61.0	old	False	1
+103438180	BR2010	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	61-year-old stage	True	blood	T cell	61.0	old	False	1
+103456939	BR2010	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	61-year-old stage	True	blood	T cell	61.0	old	False	1
+103456947	BR2010	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	61-year-old stage	True	blood	T cell	61.0	old	False	1
+103185887	BR2010	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+102328637	BR2010	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	61-year-old stage	True	blood	T cell	61.0	old	False	1
+72999613	BR2013	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+73016415	BR2013	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+72935700	BR2013	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+72999609	BR2013	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+73016397	BR2013	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+73081173	BR2013	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+73016408	BR2013	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+72935698	BR2013	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+101788714	BR2014	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+101498946	BR2014	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+103629965	BR2014	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+102781251	BR2014	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+102651282	BR2014	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+102781264	BR2014	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+101736807	BR2014	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+102713260	BR2014	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+103134078	BR2016	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	64-year-old stage	True	blood	T cell	64.0	old	False	1
+101872174	BR2016	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+102371579	BR2016	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+101480570	BR2016	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+103719834	BR2016	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	64-year-old stage	True	blood	T cell	64.0	old	False	1
+101872158	BR2016	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+102967398	BR2016	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+103719850	BR2016	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	64-year-old stage	True	blood	T cell	64.0	old	False	1
+90913901	BR2020	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+90928591	BR2020	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+90322637	BR2020	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+90913897	BR2020	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+90928573	BR2020	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+91909312	BR2020	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	64-year-old stage	True	blood	T cell	64.0	old	True	1
+90928584	BR2020	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+90322635	BR2020	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+74894065	BR2021	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74940550	BR2021	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74940540	BR2021	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74894067	BR2021	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74233699	BR2021	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74894055	BR2021	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74894066	BR2021	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74233693	BR2021	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+91191121	BR2023	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+91784784	BR2023	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+91128001	BR2023	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+91962362	BR2023	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+91191090	BR2023	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+91108938	BR2023	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+91784780	BR2023	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+91962363	BR2023	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+74543075	BR2027	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	63-year-old stage	True	blood	T cell	63.0	old	True	1
+91445120	BR2028	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+91411560	BR2028	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+91279234	BR2028	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+91279240	BR2028	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+91411556	BR2028	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+91516815	BR2028	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+91411574	BR2028	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+91279235	BR2028	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+102666957	BR2029	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102666968	BR2029	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102666950	BR2029	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102666960	BR2029	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102666964	BR2029	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102666956	BR2029	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102666971	BR2029	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102666974	BR2029	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+73209920	BR2030	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+73209922	BR2030	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+73209909	BR2030	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+73209910	BR2030	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+73209917	BR2030	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+73209914	BR2030	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+73209916	BR2030	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+73209926	BR2030	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	60-year-old stage	True	blood	T cell	60.0	old	False	1
+90397192	BR2031	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+91553358	BR2031	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+90397220	BR2031	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+90397233	BR2031	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+90397303	BR2031	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+90397255	BR2031	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+90397159	BR2031	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+90397148	BR2031	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+74326015	BR2032	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+74032858	BR2032	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+75307628	BR2032	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+74479306	BR2032	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74479308	BR2032	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+74572993	BR2032	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+74209437	BR2032	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	62-year-old stage	True	blood	T cell	62.0	old	True	1
+74572991	BR2032	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+74806169	BR2034	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+74674450	BR2034	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+74674477	BR2034	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+74258217	BR2034	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	63-year-old stage	True	blood	T cell	63.0	old	True	1
+74247412	BR2034	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+74674494	BR2034	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+74674435	BR2034	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+75053115	BR2034	3cb646ab-d411-4e5b-89eb-082a786c953b	10x 3' v3	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+101950546	BR2035	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102088349	BR2035	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+101950539	BR2035	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102088341	BR2035	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102088345	BR2035	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+101950545	BR2035	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102088353	BR2035	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102088356	BR2035	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+101545663	BR2041	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+101650437	BR2041	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+101306628	BR2041	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+103699115	BR2041	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+101545702	BR2041	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+103699118	BR2041	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+103530219	BR2041	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+103530213	BR2041	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+103683456	BR2043	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+103321667	BR2043	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+103321609	BR2043	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+103683462	BR2043	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+103321634	BR2043	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+103321611	BR2043	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+102171207	BR2043	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+103321647	BR2043	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+102856905	BR2044	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+103372629	BR2044	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+103202840	BR2044	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+103372625	BR2044	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	63-year-old stage	True	blood	T cell	63.0	old	False	1
+102865107	BR2044	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+102865094	BR2044	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+102902304	BR2044	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	61-year-old stage	True	blood	T cell	61.0	old	False	1
+102865076	BR2044	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	62-year-old stage	True	blood	T cell	62.0	old	False	1
+90506462	BR2050	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+90841156	BR2050	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+91840918	BR2050	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+90793876	BR2050	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+90793877	BR2050	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+91588289	BR2050	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+90506459	BR2050	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+90608055	BR2050	47e00f43-6176-44a5-b4d1-f88a1920fcab	10x 3' v3	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+101383541	BR2051	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+101443732	BR2051	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102827194	BR2051	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+103662475	BR2051	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+101981466	BR2051	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102745078	BR2051	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102827190	BR2051	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	60-year-old stage	True	blood	T cell	60.0	old	False	1
+102509703	BR2051	aa32098f-f7b0-43f2-a00a-601d190aae94	10x 3' v3	cytomegalovirus infection	female	61-year-old stage	True	blood	T cell	61.0	old	False	1
+72988206	BR2053	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	66-year-old stage	True	blood	T cell	66.0	old	False	1
+72827699	BR2053	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	64-year-old stage	True	blood	T cell	64.0	old	False	1
+72344482	BR2053	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	65-year-old stage	True	blood	T cell	65.0	old	False	1
+73197435	BR2053	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	64-year-old stage	True	blood	T cell	64.0	old	False	1
+73197436	BR2053	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	64-year-old stage	True	blood	T cell	64.0	old	False	1
+73049301	BR2053	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	66-year-old stage	True	blood	T cell	66.0	old	False	1
+72884622	BR2053	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	65-year-old stage	True	blood	T cell	65.0	old	False	1
+73516513	BR2053	0c0c49a2-b96b-432f-98a4-1decf9929149	10x 3' v3	cytomegalovirus infection	male	65-year-old stage	True	blood	T cell	65.0	old	False	1
+36138562	HGR0000101	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	COVID-19	male	73-year-old stage	True	blood	T cell	73.0	old	False	1
+36111823	HGR0000101	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	COVID-19	male	73-year-old stage	True	blood	T cell	73.0	old	False	1
+36151610	HGR0000101	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	COVID-19	male	73-year-old stage	True	blood	T cell	73.0	old	False	1
+36118157	HGR0000430	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	COVID-19	female	77-year-old stage	True	blood	T cell	77.0	old	False	1
+126671322	IN_NIB_H019	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+126661931	IN_NIB_H019	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+126672888	IN_NIB_H019	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+126669314	IN_NIB_H019	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+126664588	IN_NIB_H019	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+126658451	IN_NIB_H019	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+126668575	IN_NIB_H019	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+126674706	IN_NIB_H019	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127325649	JP_RIK_H002	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127322415	JP_RIK_H002	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127325414	JP_RIK_H002	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127320540	JP_RIK_H002	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127322384	JP_RIK_H002	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127321098	JP_RIK_H002	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127323055	JP_RIK_H002	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127324057	JP_RIK_H002	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127067923	JP_RIK_H004	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	37-year-old stage	True	blood	T cell	37.0	young	True	0
+127326002	JP_RIK_H004	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	37-year-old stage	True	blood	T cell	37.0	young	True	0
+127067830	JP_RIK_H004	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	37-year-old stage	True	blood	T cell	37.0	young	True	0
+127321815	JP_RIK_H004	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	37-year-old stage	True	blood	T cell	37.0	young	True	0
+127322711	JP_RIK_H013	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	24-year-old stage	True	blood	T cell	24.0	young	True	0
+127324594	JP_RIK_H013	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	24-year-old stage	True	blood	T cell	24.0	young	True	0
+127068479	JP_RIK_H013	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	24-year-old stage	True	blood	T cell	24.0	young	True	0
+127323888	JP_RIK_H013	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	24-year-old stage	True	blood	T cell	24.0	young	True	0
+127324035	JP_RIK_H013	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	24-year-old stage	True	blood	T cell	24.0	young	True	0
+127067837	JP_RIK_H013	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	24-year-old stage	True	blood	T cell	24.0	young	True	0
+127321842	JP_RIK_H013	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	24-year-old stage	True	blood	T cell	24.0	young	True	0
+127325280	JP_RIK_H013	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	24-year-old stage	True	blood	T cell	24.0	young	True	0
+127068231	JP_RIK_H015	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127323893	JP_RIK_H015	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127067802	JP_RIK_H015	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127323547	JP_RIK_H015	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127335287	JP_RIK_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127333151	JP_RIK_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127339928	JP_RIK_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127328454	JP_RIK_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127332475	JP_RIK_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127330801	JP_RIK_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127338108	JP_RIK_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127339745	JP_RIK_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127339873	JP_RIK_H025	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127332592	JP_RIK_H025	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127336849	JP_RIK_H025	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127327001	JP_RIK_H025	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127331137	JP_RIK_H025	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127330336	JP_RIK_H025	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127335509	JP_RIK_H025	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127336620	JP_RIK_H025	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127354336	JP_RIK_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127343659	JP_RIK_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127345255	JP_RIK_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127354870	JP_RIK_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127357154	JP_RIK_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127080372	JP_RIK_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127356523	JP_RIK_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127350792	JP_RIK_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127344109	JP_RIK_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127353012	JP_RIK_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127076706	JP_RIK_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127344388	JP_RIK_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127347773	JP_RIK_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127343934	JP_RIK_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127356915	JP_RIK_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127358084	JP_RIK_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127373013	JP_RIK_H049	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127360145	JP_RIK_H049	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127372407	JP_RIK_H049	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127368119	JP_RIK_H049	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127365418	JP_RIK_H049	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127358738	JP_RIK_H049	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127372247	JP_RIK_H049	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127358837	JP_RIK_H049	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127369555	JP_RIK_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127367523	JP_RIK_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127367948	JP_RIK_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127358272	JP_RIK_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127361601	JP_RIK_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127371708	JP_RIK_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127363458	JP_RIK_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127372329	JP_RIK_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127403326	JP_RIK_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127400031	JP_RIK_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127406376	JP_RIK_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127392554	JP_RIK_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127399330	JP_RIK_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127397279	JP_RIK_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127404519	JP_RIK_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127406008	JP_RIK_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127397426	JP_RIK_H082	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127402182	JP_RIK_H082	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127404070	JP_RIK_H082	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127094956	JP_RIK_H082	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127393729	JP_RIK_H082	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127396985	JP_RIK_H082	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127397747	JP_RIK_H082	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127407426	JP_RIK_H082	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127409166	JP_RIK_H087	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127405281	JP_RIK_H087	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127408811	JP_RIK_H087	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127392361	JP_RIK_H087	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127403216	JP_RIK_H087	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127399161	JP_RIK_H087	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127408707	JP_RIK_H087	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127408732	JP_RIK_H087	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127419799	JP_RIK_H091	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127413283	JP_RIK_H091	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127413569	JP_RIK_H091	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127420922	JP_RIK_H091	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127425710	JP_RIK_H091	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127102812	JP_RIK_H091	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127422754	JP_RIK_H091	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127417944	JP_RIK_H091	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127422959	JP_RIK_H095	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	22-year-old stage	True	blood	T cell	22.0	young	True	0
+127411272	JP_RIK_H095	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	22-year-old stage	True	blood	T cell	22.0	young	True	0
+127416168	JP_RIK_H095	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	22-year-old stage	True	blood	T cell	22.0	young	True	0
+127425488	JP_RIK_H095	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	22-year-old stage	True	blood	T cell	22.0	young	True	0
+127410198	JP_RIK_H095	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	22-year-old stage	True	blood	T cell	22.0	young	True	0
+127414702	JP_RIK_H095	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	22-year-old stage	True	blood	T cell	22.0	young	True	0
+127422335	JP_RIK_H095	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	22-year-old stage	True	blood	T cell	22.0	young	True	0
+127418752	JP_RIK_H095	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	22-year-old stage	True	blood	T cell	22.0	young	True	0
+127424199	JP_RIK_H099	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127419499	JP_RIK_H099	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127410646	JP_RIK_H099	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127414152	JP_RIK_H099	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127417006	JP_RIK_H099	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127410502	JP_RIK_H099	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127422880	JP_RIK_H099	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127418146	JP_RIK_H099	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127429385	JP_RIK_H110	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127438042	JP_RIK_H110	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127427435	JP_RIK_H110	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127431428	JP_RIK_H110	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127432666	JP_RIK_H110	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127429291	JP_RIK_H110	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127440873	JP_RIK_H110	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127441941	JP_RIK_H110	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127446019	JP_RIK_H123	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127445960	JP_RIK_H123	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127454619	JP_RIK_H123	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127447861	JP_RIK_H123	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127451711	JP_RIK_H123	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127444013	JP_RIK_H123	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127447153	JP_RIK_H123	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127454008	JP_RIK_H123	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127469772	JP_RIK_H149	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+127464024	JP_RIK_H149	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+127465751	JP_RIK_H149	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+127470459	JP_RIK_H149	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+127463100	JP_RIK_H149	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+127471226	JP_RIK_H149	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+127471050	JP_RIK_H149	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+127463000	JP_RIK_H149	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+127486329	KR_SGI_H006	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	27-year-old stage	True	blood	T cell	27.0	young	True	0
+127483386	KR_SGI_H006	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	27-year-old stage	True	blood	T cell	27.0	young	True	0
+127486776	KR_SGI_H006	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	27-year-old stage	True	blood	T cell	27.0	young	True	0
+127487003	KR_SGI_H006	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	27-year-old stage	True	blood	T cell	27.0	young	True	0
+127478631	KR_SGI_H006	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	27-year-old stage	True	blood	T cell	27.0	young	True	0
+127486799	KR_SGI_H006	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	27-year-old stage	True	blood	T cell	27.0	young	True	0
+127483649	KR_SGI_H006	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	27-year-old stage	True	blood	T cell	27.0	young	True	0
+127478308	KR_SGI_H006	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	27-year-old stage	True	blood	T cell	27.0	young	True	0
+127481398	KR_SGI_H014	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127478660	KR_SGI_H014	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127484140	KR_SGI_H014	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127473682	KR_SGI_H014	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127479514	KR_SGI_H014	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127477028	KR_SGI_H014	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127475655	KR_SGI_H014	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127473099	KR_SGI_H014	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127499601	KR_SGI_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127489871	KR_SGI_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127496255	KR_SGI_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127504196	KR_SGI_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127127543	KR_SGI_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127491235	KR_SGI_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127501040	KR_SGI_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127495179	KR_SGI_H022	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127502569	KR_SGI_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127504681	KR_SGI_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127501853	KR_SGI_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127505035	KR_SGI_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127503876	KR_SGI_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127496933	KR_SGI_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127493180	KR_SGI_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127131761	KR_SGI_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127495818	KR_SGI_H030	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127493068	KR_SGI_H030	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127490420	KR_SGI_H030	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127499000	KR_SGI_H030	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127499408	KR_SGI_H030	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127494711	KR_SGI_H030	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127498964	KR_SGI_H030	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127490161	KR_SGI_H030	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127515582	KR_SGI_H038	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127506220	KR_SGI_H038	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127513832	KR_SGI_H038	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127521488	KR_SGI_H038	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127136829	KR_SGI_H038	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127508595	KR_SGI_H038	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127518442	KR_SGI_H038	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127520667	KR_SGI_H038	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	25-year-old stage	True	blood	T cell	25.0	young	True	0
+127515558	KR_SGI_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127505771	KR_SGI_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127513338	KR_SGI_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127521486	KR_SGI_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127136307	KR_SGI_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127509347	KR_SGI_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127518387	KR_SGI_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127520367	KR_SGI_H040	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	23-year-old stage	True	blood	T cell	23.0	young	True	0
+127515646	KR_SGI_H042	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127512780	KR_SGI_H042	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127513231	KR_SGI_H042	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127511438	KR_SGI_H042	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127522076	KR_SGI_H042	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127521800	KR_SGI_H042	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127513357	KR_SGI_H042	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127511616	KR_SGI_H042	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127526004	KR_SGI_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127530771	KR_SGI_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127523454	KR_SGI_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127527790	KR_SGI_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127523704	KR_SGI_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127537021	KR_SGI_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127531507	KR_SGI_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127529640	KR_SGI_H056	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127531326	KR_SGI_H059	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127524736	KR_SGI_H059	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127525665	KR_SGI_H059	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127151757	KR_SGI_H059	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127537873	KR_SGI_H059	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127538393	KR_SGI_H059	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127526579	KR_SGI_H059	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127522255	KR_SGI_H059	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	32-year-old stage	True	blood	T cell	32.0	young	True	0
+127542480	KR_SGI_H071	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127545320	KR_SGI_H071	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127549810	KR_SGI_H071	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127541361	KR_SGI_H071	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127550826	KR_SGI_H071	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127556208	KR_SGI_H071	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127547854	KR_SGI_H071	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127556505	KR_SGI_H071	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127562766	KR_SGI_H076	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127568569	KR_SGI_H076	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127558549	KR_SGI_H076	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127566111	KR_SGI_H076	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127558827	KR_SGI_H076	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127574096	KR_SGI_H076	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127568928	KR_SGI_H076	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127567480	KR_SGI_H076	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	29-year-old stage	True	blood	T cell	29.0	young	True	0
+127570260	KR_SGI_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127565712	KR_SGI_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127566677	KR_SGI_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127562503	KR_SGI_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127574093	KR_SGI_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127575117	KR_SGI_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127567153	KR_SGI_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127563105	KR_SGI_H079	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127566994	KR_SGI_H080	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127564493	KR_SGI_H080	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127570147	KR_SGI_H080	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127559441	KR_SGI_H080	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127564958	KR_SGI_H080	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127563330	KR_SGI_H080	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127562641	KR_SGI_H080	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127558012	KR_SGI_H080	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	34-year-old stage	True	blood	T cell	34.0	young	True	0
+127592034	KR_SGI_H093	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127585446	KR_SGI_H093	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127575933	KR_SGI_H093	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127579410	KR_SGI_H093	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127582993	KR_SGI_H093	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127168997	KR_SGI_H093	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127588595	KR_SGI_H093	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127584109	KR_SGI_H093	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127601645	KR_SGI_H111	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127599764	KR_SGI_H111	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127603180	KR_SGI_H111	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127597506	KR_SGI_H111	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127594972	KR_SGI_H111	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127608335	KR_SGI_H111	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127604172	KR_SGI_H111	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127608976	KR_SGI_H111	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127604764	KR_SGI_H119	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127595322	KR_SGI_H119	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127607497	KR_SGI_H119	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127608972	KR_SGI_H119	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127604030	KR_SGI_H119	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127601502	KR_SGI_H119	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127605197	KR_SGI_H119	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127596038	KR_SGI_H119	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127626126	KR_SGI_H127	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+127620031	KR_SGI_H127	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+127610566	KR_SGI_H127	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+127612620	KR_SGI_H127	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+127615870	KR_SGI_H127	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+127183115	KR_SGI_H127	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+127623736	KR_SGI_H127	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+127617734	KR_SGI_H127	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+127626701	KR_SGI_H128	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127612677	KR_SGI_H128	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127618862	KR_SGI_H128	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127626725	KR_SGI_H128	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127619195	KR_SGI_H128	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127622231	KR_SGI_H128	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127616628	KR_SGI_H128	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127624591	KR_SGI_H128	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127622346	KR_SGI_H129	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127609831	KR_SGI_H129	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127619445	KR_SGI_H129	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127625705	KR_SGI_H129	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127182163	KR_SGI_H129	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127613430	KR_SGI_H129	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127623217	KR_SGI_H129	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127618555	KR_SGI_H129	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127617302	KR_SGI_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127613711	KR_SGI_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127620854	KR_SGI_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127610716	KR_SGI_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127614525	KR_SGI_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127612669	KR_SGI_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127612129	KR_SGI_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127188014	KR_SGI_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127643141	KR_SGI_H139	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127642228	KR_SGI_H139	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127629009	KR_SGI_H139	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127643769	KR_SGI_H139	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127641115	KR_SGI_H139	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127629984	KR_SGI_H139	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127642590	KR_SGI_H139	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127631450	KR_SGI_H139	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127638936	KR_SGI_H142	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127639022	KR_SGI_H142	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127630325	KR_SGI_H142	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127639518	KR_SGI_H142	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127636195	KR_SGI_H142	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127630982	KR_SGI_H142	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127635689	KR_SGI_H142	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127629095	KR_SGI_H142	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127654334	KR_SGI_H153	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127644852	KR_SGI_H153	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127652125	KR_SGI_H153	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127657595	KR_SGI_H153	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127194781	KR_SGI_H153	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127647360	KR_SGI_H153	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127654690	KR_SGI_H153	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127651451	KR_SGI_H153	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127648619	KR_SGI_H157	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127649911	KR_SGI_H157	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127645827	KR_SGI_H157	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127649538	KR_SGI_H157	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127649658	KR_SGI_H157	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127644747	KR_SGI_H157	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127645900	KR_SGI_H157	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127653765	KR_SGI_H157	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127651499	KR_SGI_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127652670	KR_SGI_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127655541	KR_SGI_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127645296	KR_SGI_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127647295	KR_SGI_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127650649	KR_SGI_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127657269	KR_SGI_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127648190	KR_SGI_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127550805	LONZA3038016	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+126691606	LONZA3038016	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+126698520	LONZA3038016	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+126674823	LONZA3038016	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+126680597	LONZA3038016	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+127479126	LONZA3038016	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+126676330	LONZA3038016	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+126695207	LONZA3038016	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	21-year-old stage	True	blood	T cell	21.0	young	True	0
+127230250	SG_HEL_H011	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127229664	SG_HEL_H011	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127732839	SG_HEL_H011	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127729182	SG_HEL_H011	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127730565	SG_HEL_H011	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127228957	SG_HEL_H011	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127726826	SG_HEL_H011	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127732380	SG_HEL_H011	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127789192	SG_HEL_H024	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127792092	SG_HEL_H024	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127786253	SG_HEL_H024	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127789931	SG_HEL_H024	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127790488	SG_HEL_H024	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127789046	SG_HEL_H024	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127794498	SG_HEL_H024	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127794859	SG_HEL_H024	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127726268	SG_HEL_H027	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127731038	SG_HEL_H027	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127230256	SG_HEL_H027	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127726901	SG_HEL_H027	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127729829	SG_HEL_H027	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127726096	SG_HEL_H027	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127733250	SG_HEL_H027	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127733702	SG_HEL_H027	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127682273	SG_HEL_H031	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127682499	SG_HEL_H031	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127206212	SG_HEL_H031	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127206579	SG_HEL_H031	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127680575	SG_HEL_H031	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127678418	SG_HEL_H031	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127679634	SG_HEL_H031	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127685497	SG_HEL_H031	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127719072	SG_HEL_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127720293	SG_HEL_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127722686	SG_HEL_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127723256	SG_HEL_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127723290	SG_HEL_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127222973	SG_HEL_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127719744	SG_HEL_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127802041	SG_HEL_H037	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127799848	SG_HEL_H037	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127800769	SG_HEL_H037	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127253878	SG_HEL_H037	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127797182	SG_HEL_H037	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127803214	SG_HEL_H037	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127797924	SG_HEL_H037	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127803555	SG_HEL_H037	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127781237	SG_HEL_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127782499	SG_HEL_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127783242	SG_HEL_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127777142	SG_HEL_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127779323	SG_HEL_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127780460	SG_HEL_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127781268	SG_HEL_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127783327	SG_HEL_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127690539	SG_HEL_H055	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127693347	SG_HEL_H055	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127693173	SG_HEL_H055	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127690044	SG_HEL_H055	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127689796	SG_HEL_H055	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127690867	SG_HEL_H055	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127690751	SG_HEL_H055	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127689349	SG_HEL_H055	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127690529	SG_HEL_H066	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127690402	SG_HEL_H066	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127696506	SG_HEL_H066	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127692541	SG_HEL_H066	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127695479	SG_HEL_H066	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127689607	SG_HEL_H066	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127691556	SG_HEL_H066	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127696216	SG_HEL_H066	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	40-year-old stage	True	blood	T cell	40.0	young	True	0
+127783317	SG_HEL_H069	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127783450	SG_HEL_H069	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127248812	SG_HEL_H069	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127776722	SG_HEL_H069	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127781533	SG_HEL_H069	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127777950	SG_HEL_H069	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127779409	SG_HEL_H069	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127784265	SG_HEL_H069	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127726977	SG_HEL_H094	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127732092	SG_HEL_H094	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127731997	SG_HEL_H094	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127726833	SG_HEL_H094	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127726640	SG_HEL_H094	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127728923	SG_HEL_H094	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127727328	SG_HEL_H094	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127724934	SG_HEL_H094	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127828853	SG_HEL_H096	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127825220	SG_HEL_H096	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127825280	SG_HEL_H096	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127828888	SG_HEL_H096	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127830492	SG_HEL_H096	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127823422	SG_HEL_H096	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127830312	SG_HEL_H096	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127826828	SG_HEL_H096	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127739112	SG_HEL_H101	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127735425	SG_HEL_H101	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127735692	SG_HEL_H101	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127739207	SG_HEL_H101	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127742123	SG_HEL_H101	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127232147	SG_HEL_H101	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127741717	SG_HEL_H101	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127737697	SG_HEL_H101	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127746584	SG_HEL_H105	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127746789	SG_HEL_H105	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127235260	SG_HEL_H105	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127742146	SG_HEL_H105	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127746157	SG_HEL_H105	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127745185	SG_HEL_H105	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127746074	SG_HEL_H105	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127749037	SG_HEL_H105	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127765645	SG_HEL_H118	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127764310	SG_HEL_H118	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127767067	SG_HEL_H118	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127762116	SG_HEL_H118	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127764200	SG_HEL_H118	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127763742	SG_HEL_H118	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127766645	SG_HEL_H118	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127766889	SG_HEL_H118	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127702993	SG_HEL_H124	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127702252	SG_HEL_H124	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127704596	SG_HEL_H124	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127698007	SG_HEL_H124	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127701410	SG_HEL_H124	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127700074	SG_HEL_H124	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127703938	SG_HEL_H124	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127704155	SG_HEL_H124	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127744928	SG_HEL_H126	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127749657	SG_HEL_H126	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127742631	SG_HEL_H126	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127745505	SG_HEL_H126	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127747310	SG_HEL_H126	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127743895	SG_HEL_H126	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127750237	SG_HEL_H126	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127750398	SG_HEL_H126	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127691001	SG_HEL_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127690079	SG_HEL_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127694135	SG_HEL_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127210550	SG_HEL_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127689484	SG_HEL_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127688761	SG_HEL_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127692725	SG_HEL_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127692844	SG_HEL_H130	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127761405	SG_HEL_H138	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127756012	SG_HEL_H138	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127761181	SG_HEL_H138	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127758893	SG_HEL_H138	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127758171	SG_HEL_H138	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127241198	SG_HEL_H138	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127760929	SG_HEL_H138	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127754542	SG_HEL_H138	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127674272	SG_HEL_H13a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127663717	SG_HEL_H13a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127670112	SG_HEL_H13a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127200776	SG_HEL_H13a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127662658	SG_HEL_H13a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127662032	SG_HEL_H13a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127666237	SG_HEL_H13a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127666974	SG_HEL_H13a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127667641	SG_HEL_H14a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127671943	SG_HEL_H14a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127662507	SG_HEL_H14a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127659872	SG_HEL_H14a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127665813	SG_HEL_H14a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127665260	SG_HEL_H14a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127658300	SG_HEL_H14a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127660074	SG_HEL_H14a	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127711866	SG_HEL_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	68-year-old stage	True	blood	T cell	68.0	old	True	1
+127708332	SG_HEL_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	68-year-old stage	True	blood	T cell	68.0	old	True	1
+127713659	SG_HEL_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	68-year-old stage	True	blood	T cell	68.0	old	True	1
+127218346	SG_HEL_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	68-year-old stage	True	blood	T cell	68.0	old	True	1
+127708165	SG_HEL_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	68-year-old stage	True	blood	T cell	68.0	old	True	1
+127707312	SG_HEL_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	68-year-old stage	True	blood	T cell	68.0	old	True	1
+127713141	SG_HEL_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	68-year-old stage	True	blood	T cell	68.0	old	True	1
+127713267	SG_HEL_H158	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	68-year-old stage	True	blood	T cell	68.0	old	True	1
+127690212	SG_HEL_H171	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127692552	SG_HEL_H171	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127693272	SG_HEL_H171	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127689823	SG_HEL_H171	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127692124	SG_HEL_H171	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127694585	SG_HEL_H171	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127695035	SG_HEL_H171	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127696969	SG_HEL_H171	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	65-year-old stage	True	blood	T cell	65.0	old	True	1
+127681801	SG_HEL_H180	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127677017	SG_HEL_H180	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127677160	SG_HEL_H180	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127684496	SG_HEL_H180	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127688124	SG_HEL_H180	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127209676	SG_HEL_H180	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127687078	SG_HEL_H180	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127680909	SG_HEL_H180	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127718414	SG_HEL_H188	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127721077	SG_HEL_H188	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127223812	SG_HEL_H188	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127719026	SG_HEL_H188	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127720050	SG_HEL_H188	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127717923	SG_HEL_H188	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127722909	SG_HEL_H188	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127724257	SG_HEL_H188	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127702096	SG_HEL_H195	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127703812	SG_HEL_H195	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127704974	SG_HEL_H195	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127217619	SG_HEL_H195	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127699956	SG_HEL_H195	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127701463	SG_HEL_H195	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127703165	SG_HEL_H195	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127706205	SG_HEL_H195	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127747990	SG_HEL_H198	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127748027	SG_HEL_H198	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127742376	SG_HEL_H198	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127742792	SG_HEL_H198	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127746482	SG_HEL_H198	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127744788	SG_HEL_H198	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127746219	SG_HEL_H198	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127748311	SG_HEL_H198	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	66-year-old stage	True	blood	T cell	66.0	old	True	1
+127711829	SG_HEL_H199	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127218950	SG_HEL_H199	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127708972	SG_HEL_H199	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127709680	SG_HEL_H199	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127709811	SG_HEL_H199	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127711979	SG_HEL_H199	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127218933	SG_HEL_H199	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+127711168	SG_HEL_H199	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	60-year-old stage	True	blood	T cell	60.0	old	True	1
+109566534	SG_HEL_H239	b0e547f0-462b-4f81-b31b-5b0a5d96f537	10x 5' v2	normal	male	64-year-old stage	True	blood	T cell	64.0	old	True	1
+109566519	SG_HEL_H239	b0e547f0-462b-4f81-b31b-5b0a5d96f537	10x 5' v2	normal	male	64-year-old stage	True	blood	T cell	64.0	old	True	1
+127805230	SG_HEL_H254	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127805033	SG_HEL_H254	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127811696	SG_HEL_H254	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127806691	SG_HEL_H254	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127809270	SG_HEL_H254	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127804456	SG_HEL_H254	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127806426	SG_HEL_H254	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127810233	SG_HEL_H254	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	31-year-old stage	True	blood	T cell	31.0	young	True	0
+127805951	SG_HEL_H257	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127811491	SG_HEL_H257	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127804646	SG_HEL_H257	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127806879	SG_HEL_H257	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127808240	SG_HEL_H257	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127805930	SG_HEL_H257	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127807453	SG_HEL_H257	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127808556	SG_HEL_H257	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	62-year-old stage	True	blood	T cell	62.0	old	True	1
+127782051	SG_HEL_H295	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127782378	SG_HEL_H295	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127247517	SG_HEL_H295	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127776385	SG_HEL_H295	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127780683	SG_HEL_H295	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127778398	SG_HEL_H295	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127778946	SG_HEL_H295	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127784913	SG_HEL_H295	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127752631	SG_HEL_H304	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127752379	SG_HEL_H304	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127753616	SG_HEL_H304	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+109565885	SG_HEL_H304	b0e547f0-462b-4f81-b31b-5b0a5d96f537	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127752130	SG_HEL_H304	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127751751	SG_HEL_H304	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127753329	SG_HEL_H304	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127753521	SG_HEL_H304	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127771575	SG_HEL_H308	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127774316	SG_HEL_H308	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127769477	SG_HEL_H308	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127772376	SG_HEL_H308	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127773933	SG_HEL_H308	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127244478	SG_HEL_H308	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127769618	SG_HEL_H308	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127775568	SG_HEL_H308	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127752749	SG_HEL_H318	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127753676	SG_HEL_H318	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127751958	SG_HEL_H318	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127753439	SG_HEL_H318	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127753536	SG_HEL_H318	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127750956	SG_HEL_H318	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127752484	SG_HEL_H318	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127754173	SG_HEL_H318	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127841206	SG_HEL_H325	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127842148	SG_HEL_H325	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127268284	SG_HEL_H325	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127836243	SG_HEL_H325	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127839749	SG_HEL_H325	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127839043	SG_HEL_H325	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127839282	SG_HEL_H325	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127844324	SG_HEL_H325	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127824700	SG_HEL_H331	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127827746	SG_HEL_H331	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127823070	SG_HEL_H331	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127825058	SG_HEL_H331	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127825773	SG_HEL_H331	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127824674	SG_HEL_H331	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127829224	SG_HEL_H331	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127830430	SG_HEL_H331	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	75-year-old stage	True	blood	T cell	75.0	old	True	1
+127755811	SG_HEL_H336	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	72-year-old stage	True	blood	T cell	72.0	old	True	1
+127758813	SG_HEL_H336	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	72-year-old stage	True	blood	T cell	72.0	old	True	1
+127754804	SG_HEL_H336	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	72-year-old stage	True	blood	T cell	72.0	old	True	1
+127758015	SG_HEL_H336	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	72-year-old stage	True	blood	T cell	72.0	old	True	1
+127758026	SG_HEL_H336	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	72-year-old stage	True	blood	T cell	72.0	old	True	1
+127754666	SG_HEL_H336	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	72-year-old stage	True	blood	T cell	72.0	old	True	1
+127754926	SG_HEL_H336	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	72-year-old stage	True	blood	T cell	72.0	old	True	1
+127761978	SG_HEL_H336	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	72-year-old stage	True	blood	T cell	72.0	old	True	1
+127805351	SG_HEL_H339	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127811697	SG_HEL_H339	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127256155	SG_HEL_H339	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127807130	SG_HEL_H339	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127808754	SG_HEL_H339	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127805112	SG_HEL_H339	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127808410	SG_HEL_H339	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127809229	SG_HEL_H339	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	61-year-old stage	True	blood	T cell	61.0	old	True	1
+127846646	SG_HEL_H391	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127851217	SG_HEL_H391	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127851517	SG_HEL_H391	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127851617	SG_HEL_H391	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127845789	SG_HEL_H391	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127848736	SG_HEL_H391	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	67-year-old stage	True	blood	T cell	67.0	old	True	1
+127840092	SG_HEL_H425	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	77-year-old stage	True	blood	T cell	77.0	old	True	1
+127839258	SG_HEL_H425	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	77-year-old stage	True	blood	T cell	77.0	old	True	1
+127843133	SG_HEL_H425	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	77-year-old stage	True	blood	T cell	77.0	old	True	1
+127267337	SG_HEL_H425	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	77-year-old stage	True	blood	T cell	77.0	old	True	1
+127838842	SG_HEL_H425	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	77-year-old stage	True	blood	T cell	77.0	old	True	1
+127838106	SG_HEL_H425	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	77-year-old stage	True	blood	T cell	77.0	old	True	1
+127841660	SG_HEL_H425	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	77-year-old stage	True	blood	T cell	77.0	old	True	1
+127842960	SG_HEL_H425	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	77-year-old stage	True	blood	T cell	77.0	old	True	1
+127270892	SG_HEL_H427	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127848282	SG_HEL_H427	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127847865	SG_HEL_H427	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127850409	SG_HEL_H427	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127850717	SG_HEL_H427	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127850855	SG_HEL_H427	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127270185	SG_HEL_H427	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127846227	SG_HEL_H427	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	35-year-old stage	True	blood	T cell	35.0	young	True	0
+127846376	SG_HEL_H433	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	36-year-old stage	True	blood	T cell	36.0	young	True	0
+127848708	SG_HEL_H433	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	36-year-old stage	True	blood	T cell	36.0	young	True	0
+127850220	SG_HEL_H433	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	36-year-old stage	True	blood	T cell	36.0	young	True	0
+127850797	SG_HEL_H433	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	36-year-old stage	True	blood	T cell	36.0	young	True	0
+127269652	SG_HEL_H433	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	36-year-old stage	True	blood	T cell	36.0	young	True	0
+127846489	SG_HEL_H433	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	36-year-old stage	True	blood	T cell	36.0	young	True	0
+127846471	SG_HEL_H483	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127847390	SG_HEL_H483	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127848616	SG_HEL_H483	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127845806	SG_HEL_H483	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127846872	SG_HEL_H483	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	63-year-old stage	True	blood	T cell	63.0	old	True	1
+127848650	SG_HEL_H491	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127847074	SG_HEL_H491	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127845672	SG_HEL_H491	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127848671	SG_HEL_H491	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127848930	SG_HEL_H491	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127849228	SG_HEL_H491	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127849884	SG_HEL_H491	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+127845402	SG_HEL_H491	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	33-year-old stage	True	blood	T cell	33.0	young	True	0
+36113094	SHD5	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+36135806	SHD5	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+36119741	SHD5	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+36137110	SHD5	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+36150822	SHD5	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+36152413	SHD5	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+36111683	SHD5	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+36119220	SHD5	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	normal	male	73-year-old stage	True	blood	T cell	73.0	old	True	1
+36121685	SHD6	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	normal	female	74-year-old stage	True	blood	T cell	74.0	old	True	1
+36141680	SHD6	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	normal	female	74-year-old stage	True	blood	T cell	74.0	old	True	1
+36119391	SHD6	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	normal	female	74-year-old stage	True	blood	T cell	74.0	old	True	1
+36135004	SHD6	21d3e683-80a4-4d9b-bc89-ebb2df513dde	10x 5' v1	normal	female	74-year-old stage	True	blood	T cell	74.0	old	True	1
+22757789	SK-010	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	female	fourth decade stage	True	blood	T cell	35.0	young	False	0
+22761297	SK-010	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	female	fourth decade stage	True	blood	T cell	35.0	young	False	0
+22757585	SK-010	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	female	fourth decade stage	True	blood	T cell	35.0	young	False	0
+22759469	SK-010	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	female	fourth decade stage	True	blood	T cell	35.0	young	False	0
+22757635	SK-010	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	female	fourth decade stage	True	blood	T cell	35.0	young	False	0
+22760803	SK-010	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	female	fourth decade stage	True	blood	T cell	35.0	young	False	0
+22759607	SK-010	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	female	fourth decade stage	True	blood	T cell	35.0	young	False	0
+22759303	SK-010	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	female	fourth decade stage	True	blood	T cell	35.0	young	False	0
+22787367	SK-013	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	male	seventh decade stage	True	blood	T cell	65.0	old	False	1
+22790893	SK-013	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	male	seventh decade stage	True	blood	T cell	65.0	old	False	1
+22791017	SK-013	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	male	seventh decade stage	True	blood	T cell	65.0	old	False	1
+22790304	SK-013	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	male	seventh decade stage	True	blood	T cell	65.0	old	False	1
+22791203	SK-013	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	male	seventh decade stage	True	blood	T cell	65.0	old	False	1
+22791419	SK-013	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	male	seventh decade stage	True	blood	T cell	65.0	old	False	1
+22787148	SK-013	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	male	seventh decade stage	True	blood	T cell	65.0	old	False	1
+22786618	SK-013	242c6e7f-9016-4048-af70-d631f5eea188	10x 5' v1	COVID-19	male	seventh decade stage	True	blood	T cell	65.0	old	False	1
+127864787	TH_MAH_H003	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127858990	TH_MAH_H003	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127862020	TH_MAH_H003	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127866524	TH_MAH_H003	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127858681	TH_MAH_H003	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127868555	TH_MAH_H003	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127868403	TH_MAH_H003	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127858250	TH_MAH_H003	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127880393	TH_MAH_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127872481	TH_MAH_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127873120	TH_MAH_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127881179	TH_MAH_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127884801	TH_MAH_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127282214	TH_MAH_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127884078	TH_MAH_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127877880	TH_MAH_H026	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	28-year-old stage	True	blood	T cell	28.0	young	True	0
+127879631	TH_MAH_H029	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127877536	TH_MAH_H029	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127881569	TH_MAH_H029	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127883730	TH_MAH_H029	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127876961	TH_MAH_H029	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127881322	TH_MAH_H029	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127881806	TH_MAH_H029	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127871458	TH_MAH_H029	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127901683	TH_MAH_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127894452	TH_MAH_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127889955	TH_MAH_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127891760	TH_MAH_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127891068	TH_MAH_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127888242	TH_MAH_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127902140	TH_MAH_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127901952	TH_MAH_H032	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	30-year-old stage	True	blood	T cell	30.0	young	True	0
+127902282	TH_MAH_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127901715	TH_MAH_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127893529	TH_MAH_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127900787	TH_MAH_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127888284	TH_MAH_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127896578	TH_MAH_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127898779	TH_MAH_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127895869	TH_MAH_H039	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	female	26-year-old stage	True	blood	T cell	26.0	young	True	0
+127909794	TH_MAH_H048	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127912281	TH_MAH_H048	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127906596	TH_MAH_H048	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127908417	TH_MAH_H048	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127920508	TH_MAH_H048	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127918174	TH_MAH_H048	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127919533	TH_MAH_H048	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127915181	TH_MAH_H048	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	38-year-old stage	True	blood	T cell	38.0	young	True	0
+127911110	TH_MAH_H054	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127919739	TH_MAH_H054	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127910131	TH_MAH_H054	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127916025	TH_MAH_H054	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127910276	TH_MAH_H054	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127919510	TH_MAH_H054	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127916116	TH_MAH_H054	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+127915598	TH_MAH_H054	c838aec3-03ef-4398-b882-0e3912abfff0	10x 5' v2	normal	male	39-year-old stage	True	blood	T cell	39.0	young	True	0
+105427885	UP1017	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105432507	UP1017	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105430684	UP1017	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105432692	UP1017	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105436469	UP1017	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105437426	UP1017	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105427065	UP1017	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105429113	UP1017	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105511765	UP1024	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	12-year-old stage	True	blood	T cell	12.0	young	True	0
+105509675	UP1024	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	12-year-old stage	True	blood	T cell	12.0	young	True	0
+105511041	UP1024	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	12-year-old stage	True	blood	T cell	12.0	young	True	0
+105512027	UP1024	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	12-year-old stage	True	blood	T cell	12.0	young	True	0
+105509053	UP1024	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	12-year-old stage	True	blood	T cell	12.0	young	True	0
+105512659	UP1024	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	12-year-old stage	True	blood	T cell	12.0	young	True	0
+105512315	UP1024	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	12-year-old stage	True	blood	T cell	12.0	young	True	0
+105509026	UP1024	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	male	12-year-old stage	True	blood	T cell	12.0	young	True	0
+105520350	UP1025	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	female	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105521522	UP1025	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	female	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105522026	UP1025	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	female	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105517403	UP1025	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	female	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105520732	UP1025	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	female	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105524639	UP1025	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	female	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105524804	UP1025	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	female	11-year-old stage	True	blood	T cell	11.0	young	True	0
+105525654	UP1025	e522d2cd-7927-4e59-a4ed-064009569279	10x 3' v3	normal	female	11-year-old stage	True	blood	T cell	11.0	young	True	0

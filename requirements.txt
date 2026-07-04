@@ -1,0 +1,11 @@
+cellxgene-census==1.17.0
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+python-docx
+pyarrow
+tiledbsoma
+pdf2image

@@ -1,0 +1,6 @@
+cell_type	donor_n	cell_n	tissue_n	dataset_n	collection_n	assay_n	disease_n	young_or_adult_donor_n	old_or_elderly_donor_n	annotated_other_donor_n	unknown_donor_n	disease_free_donor_n	disease_free_donor_fraction	feasibility_status
+T cell	3791	1267019	56	119	93	19	147	326	2841	655	0	2078	0.5481403323661304	eligible_stratum
+endothelial cell	3877	834933	52	234	109	21	169	139	2854	903	0	1577	0.40675780242455506	pilot_candidate
+fibroblast	2214	2663513	61	212	93	16	71	273	1103	854	0	1298	0.5862691960252936	eligible_stratum
+macrophage	2984	1736309	66	125	103	20	81	336	1594	1101	0	1504	0.5040214477211796	eligible_stratum
+monocyte	2254	647875	56	80	70	16	49	156	1346	768	0	995	0.44143744454303463	pilot_candidate

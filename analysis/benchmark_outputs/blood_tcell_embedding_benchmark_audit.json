@@ -1,0 +1,29 @@
+{
+  "census_version": "2025-11-08",
+  "full_blood_t_cell_metadata_rows": 125501,
+  "numeric_young_old_metadata_rows": 65983,
+  "sample_all_cells": 1075,
+  "sample_all_donors": 140,
+  "sample_all_young_donors": 70,
+  "sample_all_old_donors": 70,
+  "sample_disease_free_cells": 1091,
+  "sample_disease_free_donors": 140,
+  "sample_disease_free_young_donors": 70,
+  "sample_disease_free_old_donors": 70,
+  "embeddings": [
+    {
+      "name": "scvi",
+      "title": "scVI integrated-embeddings with explicit modeling of batch effects",
+      "doi": "10.1038/s41592-018-0229-2",
+      "n_features": 50,
+      "uri": "s3://cellxgene-contrib-public/contrib/cell-census/soma/2025-11-08/CxG-czi-15"
+    },
+    {
+      "name": "tf-sapiens",
+      "title": "TranscriptFormer TF-Sapiens cell embeddings",
+      "doi": "10.1101/2025.04.25.650731",
+      "n_features": 2048,
+      "uri": "s3://cellxgene-contrib-public/contrib/cell-census/soma/2025-11-08/CxG-czi-17"
+    }
+  ]
+}

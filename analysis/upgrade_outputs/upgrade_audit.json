@@ -1,0 +1,66 @@
+{
+  "census_version": "2025-11-08",
+  "seeds": [
+    1301,
+    1302,
+    1303,
+    1304,
+    1305,
+    1306,
+    1307,
+    1308,
+    1309,
+    1310,
+    1311,
+    1312,
+    1313,
+    1314,
+    1315,
+    1316,
+    1317,
+    1318,
+    1319,
+    1320,
+    1321,
+    1322,
+    1323,
+    1324,
+    1325,
+    1326,
+    1327,
+    1328,
+    1329,
+    1330
+  ],
+  "sample_all_cells": 1075,
+  "sample_all_donors": 140,
+  "sample_disease_free_cells": 1091,
+  "sample_disease_free_donors": 140,
+  "embeddings": [
+    {
+      "name": "scvi",
+      "title": "scVI integrated-embeddings with explicit modeling of batch effects",
+      "doi": "10.1038/s41592-018-0229-2",
+      "n_features": 50,
+      "uri": "s3://cellxgene-contrib-public/contrib/cell-census/soma/2025-11-08/CxG-czi-15"
+    },
+    {
+      "name": "tf-sapiens",
+      "title": "TranscriptFormer TF-Sapiens cell embeddings",
+      "doi": "10.1101/2025.04.25.650731",
+      "n_features": 2048,
+      "uri": "s3://cellxgene-contrib-public/contrib/cell-census/soma/2025-11-08/CxG-czi-17"
+    }
+  ],
+  "outputs": {
+    "results_long": "analysis/upgrade_outputs/blood_tcell_30seed_results_long.tsv",
+    "results_summary": "analysis/upgrade_outputs/blood_tcell_30seed_results_summary.tsv",
+    "lodo": "analysis/upgrade_outputs/lodo_dataset_holdout_metrics.tsv",
+    "confounding": "outputs/upgrade_figures/figure6_age_label_confounding_structure.png",
+    "depth": "analysis/upgrade_outputs/sampling_depth_sensitivity.tsv"
+  },
+  "limitations": [
+    "The 16-cell sampling depth is capped by the existing eight-cell-per-donor benchmark sample.",
+    "Additional strata were not benchmarked because numeric-age disease-free donor balance was insufficient under the same design."
+  ]
+}

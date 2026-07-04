@@ -1,0 +1,292 @@
+tissue_general	cell_type	donor_n	cell_n	dataset_n	collection_n	assay_n	disease_n	young_or_adult_donor_n	old_or_elderly_donor_n	annotated_other_donor_n	unknown_donor_n	disease_free_donor_n	disease_free_donor_fraction	feasibility_status
+blood	T cell	824	125501	20	12	7	4	61	727	50	0	719.0	0.8725728155339806	eligible_stratum
+breast	macrophage	301	60757	9	7	5	7	134	138	29	0	203.0	0.6744186046511628	eligible_stratum
+breast	fibroblast	288	321097	10	7	7	9	192	72	24	0	163.0	0.5659722222222222	eligible_stratum
+eye	fibroblast	256	733112	18	11	6	3	11	195	50	0	243.0	0.94921875	eligible_stratum
+breast	T cell	197	123745	8	6	8	8	144	38	15	0	106.0	0.5380710659898477	eligible_stratum
+liver	macrophage	144	109647	16	13	7	8	29	73	42	0	89.0	0.6180555555555556	eligible_stratum
+small intestine	macrophage	127	42325	11	11	9	4	15	41	73	0	106.0	0.8346456692913385	eligible_stratum
+small intestine	fibroblast	125	55241	10	9	7	3	12	42	71	0	96.0	0.768	eligible_stratum
+colon	fibroblast	119	56509	9	9	6	10	10	60	49	0	92.0	0.773109243697479	eligible_stratum
+bone marrow	macrophage	118	6509	9	7	7	4	45	35	40	0	59.0	0.5	eligible_stratum
+small intestine	monocyte	106	4329	8	8	6	3	11	42	53	0	79.0	0.7452830188679245	eligible_stratum
+liver	monocyte	92	54403	10	7	6	5	30	38	24	0	58.0	0.6304347826086957	eligible_stratum
+colon	macrophage	90	14129	8	8	6	5	17	23	50	0	75.0	0.8333333333333334	eligible_stratum
+colon	T cell	85	9830	6	6	6	8	10	49	26	0	69.0	0.8117647058823529	eligible_stratum
+bone marrow	T cell	63	1344	4	4	5	2	24	39	0	0	40.0	0.6349206349206349	eligible_stratum
+mucosa	T cell	54	8157	4	4	3	3	10	41	3	0	40.0	0.7407407407407407	eligible_stratum
+mucosa	fibroblast	43	20744	4	4	2	3	10	30	3	0	29.0	0.6744186046511628	eligible_stratum
+mucosa	macrophage	38	3142	3	3	2	3	10	25	3	0	24.0	0.631578947368421	eligible_stratum
+brain	endothelial cell	1895	138172	134	28	9	116	36	1763	96	0	558.0	0.29445910290237465	metadata_limited
+brain	T cell	1157	35970	17	13	5	85	29	1091	37	0	340.0	0.2938634399308557	metadata_limited
+brain	macrophage	314	370373	16	14	9	12	23	170	121	0	51.0	0.1624203821656051	metadata_limited
+lymph node	macrophage	307	136959	11	11	8	7	3	36	270	0	59.0	0.19218241042345277	metadata_limited
+lymph node	endothelial cell	251	48581	8	7	5	6	2	25	224	0	30.0	0.11952191235059761	metadata_limited
+lymph node	monocyte	235	12187	6	6	5	3	0	9	226	0	28.0	0.11914893617021277	metadata_limited
+lymph node	fibroblast	234	67679	5	5	4	5	0	11	223	0	15.0	0.0641025641025641	metadata_limited
+brain	monocyte	191	42191	7	6	9	5	16	102	73	0	4.0	0.020942408376963352	metadata_limited
+breast	endothelial cell	158	35191	7	6	8	10	61	76	21	0	17.0	0.10759493670886076	metadata_limited
+vasculature	macrophage	69	60726	5	5	5	3	0	37	32	0	11.0	0.15942028985507245	metadata_limited
+vasculature	T cell	61	99460	3	3	4	2	0	30	31	0	4.0	0.06557377049180328	metadata_limited
+vasculature	monocyte	61	13043	3	3	3	2	0	31	30	0	5.0	0.08196721311475409	metadata_limited
+vasculature	fibroblast	59	41133	5	5	5	3	0	36	23	0	12.0	0.2033898305084746	metadata_limited
+vasculature	endothelial cell	56	14958	4	4	5	3	0	30	26	0	6.0	0.10714285714285714	metadata_limited
+central nervous system	T cell	53	1632	1	1	1	1	0	53	0	0	53.0	1.0	metadata_limited
+abdomen	T cell	47	92008	2	2	1	2	0	47	0	0		0.0	metadata_limited
+digestive system	T cell	46	11945	2	2	2	5	0	12	34	0	7.0	0.15217391304347827	metadata_limited
+nose	monocyte	44	5452	1	1	2	2	4	5	35	0	23.0	0.5227272727272727	metadata_limited
+nose	macrophage	44	244	1	1	1	2	4	5	35	0	26.0	0.5909090909090909	metadata_limited
+abdomen	fibroblast	41	57216	2	2	1	2	0	41	0	0		0.0	metadata_limited
+omentum	fibroblast	38	38426	2	2	2	2	0	38	0	0	3.0	0.07894736842105263	metadata_limited
+omentum	T cell	37	58504	2	2	2	2	0	37	0	0	3.0	0.08108108108108109	metadata_limited
+omentum	monocyte	37	36630	2	2	2	2	0	37	0	0	3.0	0.08108108108108109	metadata_limited
+digestive system	macrophage	37	681	1	1	1	4	0	0	37	0	9.0	0.24324324324324326	metadata_limited
+omentum	endothelial cell	36	6812	2	2	2	2	0	36	0	0	2.0	0.05555555555555555	metadata_limited
+abdomen	endothelial cell	34	8619	2	2	1	2	0	34	0	0		0.0	metadata_limited
+prostate gland	macrophage	32	2925	4	4	3	2	0	28	4	0	8.0	0.25	metadata_limited
+abdomen	monocyte	31	55020	1	1	1	1	0	31	0	0		0.0	metadata_limited
+prostate gland	T cell	30	10225	4	4	4	2	0	27	3	0	6.0	0.2	metadata_limited
+prostate gland	endothelial cell	28	4755	3	3	3	2	0	28	0	0	4.0	0.14285714285714285	metadata_limited
+breast	monocyte	28	2421	2	2	3	4	1	27	0	0		0.0	metadata_limited
+ovary	fibroblast	27	50949	3	3	3	3	0	15	12	0	4.0	0.14814814814814814	metadata_limited
+prostate gland	monocyte	25	868	2	2	2	2	0	25	0	0	1.0	0.04	metadata_limited
+uterus	monocyte	21	47039	3	3	2	2	0	21	0	0	3.0	0.14285714285714285	metadata_limited
+uterus	T cell	21	32457	3	3	3	2	0	21	0	0	3.0	0.14285714285714285	metadata_limited
+uterus	endothelial cell	21	12717	3	3	3	2	0	21	0	0	3.0	0.14285714285714285	metadata_limited
+ovary	monocyte	20	33748	3	3	2	2	0	18	2	0	5.0	0.25	metadata_limited
+pleural fluid	macrophage	18	3047	3	3	3	5	7	6	5	0		0.0	metadata_limited
+hindlimb	macrophage	17	453	1	1	2	1	0	0	17	0	17.0	1.0	metadata_limited
+abdomen	macrophage	16	10291	1	1	1	1	0	16	0	0		0.0	metadata_limited
+cerebrospinal fluid	macrophage	16	4893	1	1	1	4	1	15	0	0		0.0	metadata_limited
+cerebrospinal fluid	monocyte	16	4683	1	1	1	4	1	15	0	0		0.0	metadata_limited
+skeletal system	macrophage	15	1124	6	5	3	6	4	9	2	0	3.0	0.2	metadata_limited
+milk	macrophage	15	6384	1	1	1	1	0	13	2	0	15.0	1.0	metadata_limited
+hindlimb	monocyte	15	208	1	1	2	1	0	0	15	0	15.0	1.0	metadata_limited
+milk	T cell	14	792	1	1	1	1	0	12	2	0	14.0	1.0	metadata_limited
+exocrine gland	T cell	13	2514	3	3	3	2	0	13	0	0	8.0	0.6153846153846154	metadata_limited
+skeletal system	T cell	12	2527	5	4	3	5	1	9	2	0	3.0	0.25	metadata_limited
+spleen	fibroblast	12	34459	3	3	4	1	0	2	10	0	12.0	1.0	metadata_limited
+exocrine gland	macrophage	12	2786	3	3	3	3	4	8	0	0	8.0	0.6666666666666666	metadata_limited
+pancreas	macrophage	12	2509	3	3	3	1	1	8	3	0	12.0	1.0	metadata_limited
+large intestine	endothelial cell	11	1876	4	4	4	4	0	4	7	0	7.0	0.6363636363636364	metadata_limited
+adipose tissue	fibroblast	11	26401	3	3	4	1	0	7	4	0	11.0	1.0	metadata_limited
+ureter	fibroblast	11	2727	3	2	2	1	0	11	0	0	11.0	1.0	metadata_limited
+ureter	endothelial cell	11	709	3	2	2	1	0	11	0	0	11.0	1.0	metadata_limited
+ureter	T cell	11	3052	2	2	2	1	0	11	0	0	11.0	1.0	metadata_limited
+placenta	monocyte	11	52	2	2	2	1	0	0	11	0	11.0	1.0	metadata_limited
+reproductive system	macrophage	11	7439	1	1	1	1	0	0	11	0	11.0	1.0	metadata_limited
+hindlimb	fibroblast	11	4529	1	1	1	1	0	0	11	0	11.0	1.0	metadata_limited
+central nervous system	monocyte	11	915	1	1	1	1	3	0	8	0	11.0	1.0	metadata_limited
+skeletal system	endothelial cell	10	471	4	4	2	5	1	6	3	0	4.0	0.4	metadata_limited
+fallopian tube	fibroblast	10	13112	3	3	2	3	1	9	0	0	5.0	0.5	metadata_limited
+musculature	endothelial cell	10	5373	3	3	2	2	0	9	1	0	7.0	0.7	metadata_limited
+bone marrow	fibroblast	10	94	2	2	5	1	0	3	7	0	10.0	1.0	metadata_limited
+reproductive system	monocyte	10	1945	1	1	1	1	0	0	10	0	10.0	1.0	metadata_limited
+saliva	macrophage	10	1251	1	1	1	1	0	10	0	0		0.0	metadata_limited
+saliva	monocyte	10	199	1	1	1	1	0	10	0	0		0.0	metadata_limited
+axilla	T cell	9	13792	3	2	2	2	0	9	0	0		0.0	not_recommended
+axilla	macrophage	9	11594	3	2	2	2	0	9	0	0		0.0	not_recommended
+axilla	fibroblast	9	10645	3	2	2	2	0	9	0	0		0.0	not_recommended
+respiratory system	endothelial cell	9	2580	3	3	4	1	0	7	2	0	9.0	1.0	not_recommended
+skeletal system	monocyte	9	673	3	3	3	3	3	4	2	0	2.0	0.2222222222222222	not_recommended
+pleural fluid	T cell	9	14771	2	2	2	4	7	2	0	0		0.0	not_recommended
+bladder organ	fibroblast	9	13846	2	2	3	1	0	9	0	0	9.0	1.0	not_recommended
+bladder organ	monocyte	9	9392	2	2	3	1	0	9	0	0	9.0	1.0	not_recommended
+bladder organ	macrophage	9	3317	2	2	3	1	0	9	0	0	9.0	1.0	not_recommended
+bladder organ	T cell	9	875	2	2	3	1	0	9	0	0	9.0	1.0	not_recommended
+uterus	macrophage	8	3268	3	3	3	1	0	8	0	0	8.0	1.0	not_recommended
+intestine	macrophage	8	358	2	2	3	2	0	1	7	0	8.0	1.0	not_recommended
+stomach	T cell	8	294	2	2	3	1	0	6	2	0	8.0	1.0	not_recommended
+cortex	macrophage	8	484	1	1	2	1	3	0	5	0	8.0	1.0	not_recommended
+immune system	T cell	7	267	1	1	2	1	0	7	0	0	7.0	1.0	not_recommended
+immune system	macrophage	7	149	1	1	2	1	0	7	0	0	7.0	1.0	not_recommended
+forelimb	macrophage	7	135	1	1	2	1	0	0	7	0	7.0	1.0	not_recommended
+bladder organ	endothelial cell	6	903	2	2	3	1	0	6	0	0	6.0	1.0	not_recommended
+omentum	macrophage	6	758	2	2	2	1	0	3	3	0	6.0	1.0	not_recommended
+pancreas	fibroblast	6	239	2	2	2	1	0	3	3	0	6.0	1.0	not_recommended
+adrenal gland	monocyte	6	563	1	1	1	1	0	2	4	0	6.0	1.0	not_recommended
+esophagogastric junction	macrophage	6	67	1	1	1	1	0	6	0	0	6.0	1.0	not_recommended
+esophagogastric junction	fibroblast	6	56	1	1	1	1	0	6	0	0	6.0	1.0	not_recommended
+esophagus	endothelial cell	5	964	3	3	3	1	0	3	2	0	5.0	1.0	not_recommended
+ovary	macrophage	5	476	2	2	2	1	0	3	2	0	5.0	1.0	not_recommended
+pancreas	monocyte	5	105	2	2	2	1	0	2	3	0	5.0	1.0	not_recommended
+yolk sac	macrophage	5	20811	1	1	2	1	1	0	4	0	5.0	1.0	not_recommended
+tongue	fibroblast	5	1531	1	1	2	1	0	5	0	0	5.0	1.0	not_recommended
+lamina propria	macrophage	5	571	1	1	2	1	0	0	5	0	5.0	1.0	not_recommended
+forelimb	monocyte	5	23	1	1	2	1	0	0	5	0	5.0	1.0	not_recommended
+pancreas	T cell	4	7401	2	2	2	1	0	1	3	0	4.0	1.0	not_recommended
+fallopian tube	T cell	4	2638	2	2	2	2	0	4	0	0	1.0	0.25	not_recommended
+fallopian tube	monocyte	4	1900	2	2	2	2	0	4	0	0	1.0	0.25	not_recommended
+neck	macrophage	4	1514	2	2	2	2	0	4	0	0		0.0	not_recommended
+neck	endothelial cell	4	569	2	2	2	2	0	4	0	0		0.0	not_recommended
+esophagus	T cell	4	478	2	2	2	1	0	1	3	0	4.0	1.0	not_recommended
+tendon of semitendinosus	fibroblast	4	3468	1	1	1	1	0	4	0	0	4.0	1.0	not_recommended
+yolk sac	endothelial cell	4	1525	1	1	2	1	1	0	3	0	4.0	1.0	not_recommended
+tongue	endothelial cell	4	1221	1	1	2	1	0	4	0	0	4.0	1.0	not_recommended
+tongue	macrophage	4	570	1	1	2	1	0	4	0	0	4.0	1.0	not_recommended
+yolk sac	monocyte	4	339	1	1	2	1	1	0	3	0	4.0	1.0	not_recommended
+tongue	T cell	4	194	1	1	1	1	0	4	0	0	4.0	1.0	not_recommended
+esophagogastric junction	monocyte	4	36	1	1	1	1	0	4	0	0	4.0	1.0	not_recommended
+embryo	endothelial cell	3	12409	2	2	2	1	0	0	3	0	3.0	1.0	not_recommended
+embryo	fibroblast	3	4854	2	2	2	1	0	0	3	0	3.0	1.0	not_recommended
+neck	T cell	3	1760	2	2	2	2	0	3	0	0		0.0	not_recommended
+axilla	endothelial cell	3	684	2	2	1	2	0	3	0	0		0.0	not_recommended
+testis	endothelial cell	3	244	2	2	2	1	0	1	2	0	3.0	1.0	not_recommended
+testis	macrophage	3	21	2	2	2	1	0	1	2	0	3.0	1.0	not_recommended
+testis	monocyte	3	13	2	2	2	1	0	1	2	0	3.0	1.0	not_recommended
+chest wall	macrophage	3	2611	1	1	1	1	0	3	0	0		0.0	not_recommended
+chest wall	fibroblast	3	2342	1	1	1	1	0	3	0	0		0.0	not_recommended
+chest wall	T cell	3	1111	1	1	1	1	0	3	0	0		0.0	not_recommended
+prostate gland	fibroblast	3	519	1	1	2	1	0	3	0	0	3.0	1.0	not_recommended
+axilla	monocyte	3	343	1	1	2	1	0	3	0	0		0.0	not_recommended
+yolk sac	fibroblast	3	273	1	1	2	1	1	0	2	0	3.0	1.0	not_recommended
+forelimb	fibroblast	3	121	1	1	1	1	0	0	3	0	3.0	1.0	not_recommended
+exocrine gland	monocyte	3	99	1	1	2	1	0	3	0	0	3.0	1.0	not_recommended
+urinary bladder	fibroblast	2	11322	2	2	1	2	0	2	0	0	1.0	0.5	not_recommended
+urinary bladder	endothelial cell	2	2505	2	2	1	2	0	2	0	0	1.0	0.5	not_recommended
+urinary bladder	monocyte	2	1758	2	2	1	2	0	2	0	0	1.0	0.5	not_recommended
+neck	fibroblast	2	1591	2	2	1	2	0	2	0	0		0.0	not_recommended
+urinary bladder	T cell	2	873	2	2	1	2	0	2	0	0	1.0	0.5	not_recommended
+spinal cord	endothelial cell	2	247	2	2	2	1	0	1	1	0	2.0	1.0	not_recommended
+spinal cord	fibroblast	2	69	2	2	2	1	0	1	1	0	2.0	1.0	not_recommended
+testis	fibroblast	2	7688	1	1	1	1	0	0	2	0	2.0	1.0	not_recommended
+milk	fibroblast	2	140	1	1	1	1	0	0	2	0	2.0	1.0	not_recommended
+tongue	monocyte	2	139	1	1	1	1	0	2	0	0	2.0	1.0	not_recommended
+cortex	fibroblast	2	17	1	1	1	1	0	0	2	0	2.0	1.0	not_recommended
+neck	monocyte	2	16	1	1	2	1	0	2	0	0		0.0	not_recommended
+peripheral nervous system	macrophage	2	11	1	1	1	1	0	2	0	0	2.0	1.0	not_recommended
+testis	T cell	2	2	1	1	1	1	0	0	2	0	2.0	1.0	not_recommended
+pleura	fibroblast	1	15156	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+gallbladder	fibroblast	1	6805	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+head	fibroblast	1	5983	1	1	1	1	0	0	1	0	1.0	1.0	not_recommended
+embryo	macrophage	1	4679	1	1	1	1	0	0	1	0	1.0	1.0	not_recommended
+chest	macrophage	1	2063	1	1	1	1	1	0	0	0		0.0	not_recommended
+paracolic gutter	T cell	1	2007	1	1	1	1	0	1	0	0		0.0	not_recommended
+paracolic gutter	fibroblast	1	1781	1	1	1	1	0	1	0	0		0.0	not_recommended
+gallbladder	macrophage	1	1467	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+paracolic gutter	monocyte	1	1200	1	1	1	1	0	1	0	0		0.0	not_recommended
+chest	fibroblast	1	1103	1	1	1	1	1	0	0	0		0.0	not_recommended
+paracolic gutter	endothelial cell	1	464	1	1	1	1	0	1	0	0		0.0	not_recommended
+urinary bladder	macrophage	1	405	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+pleura	monocyte	1	384	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+sensory system	macrophage	1	265	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+pleura	macrophage	1	237	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+chest	endothelial cell	1	236	1	1	1	1	1	0	0	0		0.0	not_recommended
+chest	T cell	1	211	1	1	1	1	1	0	0	0		0.0	not_recommended
+gallbladder	endothelial cell	1	174	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+spinal cord	macrophage	1	159	1	1	1	1	0	0	1	0	1.0	1.0	not_recommended
+mucosa	endothelial cell	1	93	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+ureter	monocyte	1	82	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+spinal cord	monocyte	1	54	1	1	1	1	0	0	1	0	1.0	1.0	not_recommended
+pleura	T cell	1	52	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+spinal cord	T cell	1	33	1	1	1	1	0	0	1	0	1.0	1.0	not_recommended
+head	macrophage	1	31	1	1	1	1	0	0	1	0	1.0	1.0	not_recommended
+gallbladder	T cell	1	20	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+pleura	endothelial cell	1	14	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+pleural fluid	fibroblast	1	7	1	1	1	1	0	1	0	0		0.0	not_recommended
+embryo	T cell	1	6	1	1	1	1	0	0	1	0	1.0	1.0	not_recommended
+embryo	monocyte	1	5	1	1	1	1	0	0	1	0	1.0	1.0	not_recommended
+ureter	macrophage	1	4	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+gallbladder	monocyte	1	3	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+yolk sac	T cell	1	3	1	1	1	1	1	0	0	0	1.0	1.0	not_recommended
+sensory system	monocyte	1	2	1	1	1	1	0	1	0	0	1.0	1.0	not_recommended
+blood	fibroblast	1	1	1	1	1	1	0	0	1	0	1.0	1.0	not_recommended
+nose	fibroblast	1	1	1	1	1	1	0	1	0	0		0.0	not_recommended
+blood	monocyte	528	157163	14	12	8	9	29	433	67	0	206.0	0.39015151515151514	pilot_candidate
+lung	macrophage	425	327835	20	20	13	16	10	322	96	0	144.0	0.3388235294117647	pilot_candidate
+lung	T cell	261	127201	15	15	9	19	4	144	113	0	123.0	0.47126436781609193	pilot_candidate
+eye	macrophage	239	146925	13	9	6	2	8	187	44	0	238.0	0.99581589958159	pilot_candidate
+lung	monocyte	227	55994	17	17	5	11	2	191	34	0	125.0	0.5506607929515418	pilot_candidate
+kidney	endothelial cell	214	69961	16	14	7	9	2	90	122	0	100.0	0.4672897196261682	pilot_candidate
+heart	fibroblast	206	400745	13	12	6	8	2	53	151	0	153.0	0.7427184466019418	pilot_candidate
+lung	fibroblast	196	50656	17	16	9	12	1	112	83	0	95.0	0.4846938775510204	pilot_candidate
+kidney	T cell	190	32884	14	10	5	6	2	91	97	0	99.0	0.5210526315789473	pilot_candidate
+blood	macrophage	172	7544	9	9	7	3	4	141	27	0	65.0	0.37790697674418605	pilot_candidate
+eye	endothelial cell	169	44425	11	9	6	3	4	140	25	0	157.0	0.9289940828402367	pilot_candidate
+heart	endothelial cell	165	178308	10	10	6	6	2	47	116	0	89.0	0.5393939393939394	pilot_candidate
+blood	endothelial cell	160	658	4	3	3	4	6	152	3	0	100.0	0.625	pilot_candidate
+heart	macrophage	147	51141	8	7	4	7	0	18	129	0	94.0	0.6394557823129252	pilot_candidate
+eye	T cell	144	52045	9	7	5	2	6	124	14	0	132.0	0.9166666666666666	pilot_candidate
+lung	endothelial cell	135	38149	16	15	8	9	2	97	36	0	74.0	0.5481481481481482	pilot_candidate
+eye	monocyte	121	13858	6	4	4	1	5	97	19	0	121.0	1.0	pilot_candidate
+liver	T cell	118	160708	13	12	7	10	7	81	30	0	56.0	0.4745762711864407	pilot_candidate
+kidney	monocyte	111	6150	7	7	4	3	2	42	67	0	60.0	0.5405405405405406	pilot_candidate
+liver	fibroblast	99	24051	13	11	7	9	7	67	25	0	31.0	0.31313131313131315	pilot_candidate
+pancreas	endothelial cell	94	12758	7	7	5	4	3	82	9	0	58.0	0.6170212765957447	pilot_candidate
+stomach	macrophage	88	3797	5	5	6	5	1	75	12	0	52.0	0.5909090909090909	pilot_candidate
+liver	endothelial cell	86	27764	13	13	7	8	3	59	24	0	50.0	0.5813953488372093	pilot_candidate
+stomach	monocyte	86	4791	4	4	6	4	0	74	12	0	51.0	0.5930232558139535	pilot_candidate
+stomach	fibroblast	83	15399	4	4	6	4	0	71	12	0	55.0	0.6626506024096386	pilot_candidate
+colon	endothelial cell	80	7631	7	7	4	9	1	53	26	0	55.0	0.6875	pilot_candidate
+colon	monocyte	75	6586	7	7	5	6	5	26	44	0	59.0	0.7866666666666666	pilot_candidate
+large intestine	fibroblast	75	16158	6	6	5	6	0	68	7	0	45.0	0.6	pilot_candidate
+central nervous system	fibroblast	75	93871	3	3	1	1	4	62	9	0	75.0	1.0	pilot_candidate
+large intestine	monocyte	71	15158	6	6	6	3	0	67	4	0	40.0	0.5633802816901409	pilot_candidate
+placenta	macrophage	71	45091	4	4	5	4	0	0	71	0	71.0	1.0	pilot_candidate
+brain	fibroblast	70	32659	110	10	4	6	7	48	15	0	44.0	0.6285714285714286	pilot_candidate
+skin of body	fibroblast	70	121388	7	7	7	4	1	48	21	0	39.0	0.5571428571428572	pilot_candidate
+small intestine	T cell	70	35114	5	5	4	3	2	16	52	0	51.0	0.7285714285714285	pilot_candidate
+skin of body	macrophage	68	50214	10	10	9	4	7	38	28	0	50.0	0.7352941176470589	pilot_candidate
+small intestine	endothelial cell	68	24581	5	5	5	3	2	16	50	0	49.0	0.7205882352941176	pilot_candidate
+large intestine	macrophage	67	20525	4	4	5	2	0	64	3	0	40.0	0.5970149253731343	pilot_candidate
+large intestine	T cell	65	7137	5	5	4	6	0	58	7	0	27.0	0.4153846153846154	pilot_candidate
+adipose tissue	macrophage	61	56786	7	6	5	1	1	56	4	0	61.0	1.0	pilot_candidate
+central nervous system	macrophage	61	6941	2	2	1	1	1	60	0	0	61.0	1.0	pilot_candidate
+adipose tissue	endothelial cell	59	39945	7	6	5	1	1	54	4	0	59.0	1.0	pilot_candidate
+respiratory system	T cell	57	1538	6	6	5	3	6	40	11	0	48.0	0.8421052631578947	pilot_candidate
+musculature	macrophage	56	15714	8	8	5	2	1	27	28	0	53.0	0.9464285714285714	pilot_candidate
+skin of body	T cell	56	7011	7	7	6	3	0	37	19	0	24.0	0.42857142857142855	pilot_candidate
+lymph node	T cell	53	26831	8	7	4	5	2	26	25	0	22.0	0.41509433962264153	pilot_candidate
+bone marrow	monocyte	52	2536	3	3	5	2	38	14	0	0	18.0	0.34615384615384615	pilot_candidate
+reproductive system	endothelial cell	51	14484	2	1	2	1	0	0	51	0	51.0	1.0	pilot_candidate
+spleen	macrophage	50	24710	6	6	6	1	1	16	35	0	50.0	1.0	pilot_candidate
+kidney	fibroblast	46	4894	9	8	6	4	0	25	21	0	34.0	0.7391304347826086	pilot_candidate
+musculature	fibroblast	46	119498	6	6	3	3	1	20	25	0	40.0	0.8695652173913043	pilot_candidate
+respiratory system	monocyte	45	9186	5	5	5	3	5	28	12	0	34.0	0.7555555555555555	pilot_candidate
+nose	T cell	44	396	3	3	4	3	5	15	24	0	24.0	0.5454545454545454	pilot_candidate
+ovary	endothelial cell	43	9747	9	7	6	3	5	26	12	0	21.0	0.4883720930232558	pilot_candidate
+endocrine gland	T cell	43	24187	5	4	5	1	0	17	26	0	43.0	1.0	pilot_candidate
+placenta	T cell	43	8789	3	3	5	1	0	0	43	0	43.0	1.0	pilot_candidate
+skin of body	monocyte	39	9001	3	3	5	2	1	24	14	0	31.0	0.7948717948717948	pilot_candidate
+respiratory system	macrophage	38	7010	5	5	6	4	6	22	10	0	26.0	0.6842105263157895	pilot_candidate
+exocrine gland	fibroblast	38	19419	4	4	3	2	1	35	2	0	27.0	0.7105263157894737	pilot_candidate
+exocrine gland	endothelial cell	38	10304	4	4	3	3	1	37	0	0	22.0	0.5789473684210527	pilot_candidate
+skin of body	endothelial cell	37	5408	6	6	6	3	2	16	19	0	23.0	0.6216216216216216	pilot_candidate
+uterus	fibroblast	37	32989	5	5	4	2	7	29	1	0	19.0	0.5135135135135135	pilot_candidate
+adipose tissue	T cell	37	11551	5	4	4	1	1	36	0	0	37.0	1.0	pilot_candidate
+adipose tissue	monocyte	37	3740	4	4	3	1	1	36	0	0	37.0	1.0	pilot_candidate
+endocrine gland	macrophage	36	2399	5	5	6	1	0	15	21	0	36.0	1.0	pilot_candidate
+kidney	macrophage	35	31677	8	6	6	6	0	13	22	0	28.0	0.8	pilot_candidate
+heart	monocyte	35	2792	4	4	3	2	0	11	24	0	22.0	0.6285714285714286	pilot_candidate
+endocrine gland	fibroblast	34	19586	5	5	6	1	1	12	21	0	34.0	1.0	pilot_candidate
+endocrine gland	monocyte	33	572	6	6	6	1	0	12	21	0	33.0	1.0	pilot_candidate
+ovary	T cell	33	46262	5	5	3	3	4	17	12	0	10.0	0.30303030303030304	pilot_candidate
+intestine	endothelial cell	33	2488	4	4	4	6	0	16	17	0	19.0	0.5757575757575758	pilot_candidate
+musculature	T cell	31	6532	7	7	4	3	0	15	16	0	26.0	0.8387096774193549	pilot_candidate
+digestive system	fibroblast	28	8580	4	4	1	3	0	14	14	0	13.0	0.4642857142857143	pilot_candidate
+respiratory system	fibroblast	28	4915	4	4	5	2	1	26	1	0	23.0	0.8214285714285714	pilot_candidate
+stomach	endothelial cell	28	1006	3	3	3	2	0	21	7	0	21.0	0.75	pilot_candidate
+heart	T cell	27	23279	4	4	3	2	0	10	17	0	11.0	0.4074074074074074	pilot_candidate
+fallopian tube	macrophage	25	15489	5	5	3	2	3	22	0	0	23.0	0.92	pilot_candidate
+adrenal gland	macrophage	24	15184	5	5	5	5	1	16	7	0	9.0	0.375	pilot_candidate
+intestine	T cell	24	18825	3	3	3	7	0	19	5	0	11.0	0.4583333333333333	pilot_candidate
+endocrine gland	endothelial cell	23	6396	5	5	5	1	0	4	19	0	23.0	1.0	pilot_candidate
+placenta	fibroblast	23	35785	3	3	4	4	0	0	23	0	21.0	0.9130434782608695	pilot_candidate
+fallopian tube	endothelial cell	22	8414	5	5	3	2	2	20	0	0	19.0	0.8636363636363636	pilot_candidate
+adrenal gland	fibroblast	22	12254	4	4	4	5	1	14	7	0	9.0	0.4090909090909091	pilot_candidate
+intestine	fibroblast	22	9497	4	4	5	7	0	18	4	0	8.0	0.36363636363636365	pilot_candidate
+spleen	monocyte	22	9492	4	4	6	1	0	7	15	0	22.0	1.0	pilot_candidate
+adrenal gland	endothelial cell	22	8918	4	4	4	5	1	14	7	0	9.0	0.4090909090909091	pilot_candidate
+digestive system	endothelial cell	22	2681	2	2	1	3	0	12	10	0	7.0	0.3181818181818182	pilot_candidate
+esophagus	macrophage	21	2708	4	4	4	2	0	18	3	0	16.0	0.7619047619047619	pilot_candidate
+spleen	T cell	20	5661	4	4	5	1	0	7	13	0	20.0	1.0	pilot_candidate
+adrenal gland	T cell	19	4617	3	3	3	4	1	14	4	0	6.0	0.3157894736842105	pilot_candidate
+esophagus	fibroblast	18	18350	4	4	4	2	0	15	3	0	13.0	0.7222222222222222	pilot_candidate
+intestine	monocyte	18	14309	3	3	4	3	0	11	7	0	8.0	0.4444444444444444	pilot_candidate
+central nervous system	endothelial cell	18	647	2	2	1	1	3	6	9	0	18.0	1.0	pilot_candidate
+musculature	monocyte	17	3743	4	4	2	2	0	9	8	0	14.0	0.8235294117647058	pilot_candidate
+spleen	endothelial cell	17	11920	3	3	6	1	0	7	10	0	17.0	1.0	pilot_candidate
+placenta	endothelial cell	17	1392	2	2	3	1	0	0	17	0	17.0	1.0	pilot_candidate
+skeletal system	fibroblast	15	9833	6	5	3	5	5	8	2	0	8.0	0.5333333333333333	pilot_candidate
+bone marrow	endothelial cell	15	3882	4	3	4	2	0	2	13	0	10.0	0.6666666666666666	pilot_candidate
+esophagus	monocyte	15	342	3	3	4	2	0	15	0	0	9.0	0.6	pilot_candidate

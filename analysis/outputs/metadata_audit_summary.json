@@ -1,0 +1,16 @@
+{
+  "census_version": "2025-11-08",
+  "target_cell_types": [
+    "T cell",
+    "monocyte",
+    "macrophage",
+    "endothelial cell",
+    "fibroblast"
+  ],
+  "target_primary_cell_rows": 7149649,
+  "unique_donors": 7255,
+  "unique_datasets": 360,
+  "unique_collections": 193,
+  "unique_tissues": 68,
+  "unique_cell_types": 5
+}

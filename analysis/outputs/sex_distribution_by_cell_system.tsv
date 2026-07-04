@@ -1,0 +1,16 @@
+cell_type	sex	donor_n
+T cell	female	1938
+T cell	male	1631
+T cell	unknown	245
+endothelial cell	female	1887
+endothelial cell	male	1845
+endothelial cell	unknown	168
+fibroblast	female	1073
+fibroblast	male	975
+fibroblast	unknown	188
+macrophage	female	1364
+macrophage	male	1357
+macrophage	unknown	303
+monocyte	female	940
+monocyte	male	1131
+monocyte	unknown	193

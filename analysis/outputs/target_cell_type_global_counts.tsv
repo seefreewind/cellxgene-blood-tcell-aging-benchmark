@@ -1,0 +1,6 @@
+soma_joinid	organism	category	label	ontology_term_id	total_cell_count	unique_cell_count
+143	homo_sapiens	cell_type	fibroblast	CL:0000057	4842332	2718863
+225	homo_sapiens	cell_type	macrophage	CL:0000235	3075214	1766158
+161	homo_sapiens	cell_type	T cell	CL:0000084	1875122	1330245
+173	homo_sapiens	cell_type	endothelial cell	CL:0000115	1801058	1247619
+284	homo_sapiens	cell_type	monocyte	CL:0000576	1147885	649577

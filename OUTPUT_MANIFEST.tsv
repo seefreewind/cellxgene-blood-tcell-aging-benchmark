@@ -1,0 +1,33 @@
+path	type	description
+CURRENT_UPGRADE_AUDIT.md	audit	Current baseline, strengths, and upgrade gaps before the Stage upgrade.
+PROJECT_MANUSCRIPT_RULES.md	checklist	Project-level manuscript and benchmark reporting rules.
+requirements.txt	environment	Python package requirements for rerunning the upgraded benchmark.
+Makefile	reproducibility	Run targets for audit, upgrade, manuscript, render, and all.
+REPRODUCIBILITY_README.md	reproducibility	Environment, commands, fixed settings, output locations, and known limitations.
+analysis/upgrade_blood_tcell_benchmark.py	analysis_script	Upgraded 30-seed benchmark, LODO diagnostics, confounding figure, sampling-depth sensitivity, and extra-stratum feasibility audit.
+analysis/upgrade_outputs/blood_tcell_30seed_results_long.tsv	metrics	Long-format repeated-seed benchmark metrics.
+analysis/upgrade_outputs/blood_tcell_30seed_results_summary.tsv	metrics	Mean, SD, and 95% CI summary for AUROC, AUPRC, and balanced accuracy.
+analysis/upgrade_outputs/paired_model_comparisons.tsv	metrics	Paired AUROC comparisons by seed and split.
+analysis/upgrade_outputs/blood_tcell_30seed_leakage_diagnostics.tsv	metrics	Generalization drop and permutation-gap diagnostics.
+analysis/upgrade_outputs/lodo_dataset_holdout_metrics.tsv	metrics	Leave-one-dataset-out metrics for eligible held-out datasets.
+analysis/upgrade_outputs/lodo_dataset_exclusions.tsv	audit	Dataset-level LODO exclusion reasons.
+analysis/upgrade_outputs/confounding_age_by_dataset_id.tsv	figure_source	Donor age-label counts by dataset.
+analysis/upgrade_outputs/confounding_age_by_disease.tsv	figure_source	Donor age-label counts by disease.
+analysis/upgrade_outputs/confounding_age_by_assay.tsv	figure_source	Donor age-label counts by assay.
+analysis/upgrade_outputs/confounding_age_by_sex.tsv	figure_source	Donor age-label counts by sex.
+analysis/upgrade_outputs/metadata_only_coefficients.tsv	figure_source	Metadata-only logistic regression coefficients.
+analysis/upgrade_outputs/scvi_pca_source.tsv	figure_source	scVI PCA coordinates for confounding visualization.
+analysis/upgrade_outputs/transcriptformer_pca_source.tsv	figure_source	TranscriptFormer PCA coordinates for confounding visualization.
+analysis/upgrade_outputs/sampling_depth_sensitivity.tsv	metrics	Long-format sampling-depth sensitivity metrics.
+analysis/upgrade_outputs/sampling_depth_sensitivity_summary.tsv	metrics	Sampling-depth sensitivity summary.
+analysis/upgrade_outputs/extra_stratum_numeric_age_feasibility.tsv	audit	Numeric-age feasibility audit for non-blood-T-cell strata.
+analysis/upgrade_outputs/upgrade_audit.json	audit	Upgrade run settings and output pointers.
+outputs/upgrade_figures/figure4_blood_tcell_30seed_performance.png	figure	30-seed blood T-cell performance figure.
+outputs/upgrade_figures/figure5_30seed_leakage_diagnostics.png	figure	Generalization-drop and permutation-gap figure.
+outputs/upgrade_figures/figure6_age_label_confounding_structure.png	figure	Age-label confounding structure by dataset, disease, assay, and sex.
+outputs/upgrade_figures/figure6b_metadata_coefficients.png	figure	Top metadata-only coefficients.
+outputs/upgrade_figures/figure6c_scvi_pca_confounding.png	figure	scVI PCA confounding visualization.
+outputs/upgrade_figures/figure6c_transcriptformer_pca_confounding.png	figure	TranscriptFormer PCA confounding visualization.
+outputs/upgrade_figures/figure7_lodo_dataset_holdout.png	figure	Leave-one-dataset-out benchmark figure.
+outputs/upgrade_figures/figure8_sampling_depth_sensitivity.png	figure	Sampling-depth sensitivity figure.
+EXTRA_STRATUM_FEASIBILITY.md	audit	Non-blood-T-cell feasibility interpretation and candidate table.

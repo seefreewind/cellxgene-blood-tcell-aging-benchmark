@@ -1,0 +1,291 @@
+tissue_general	cell_type	numeric_young_donors	numeric_old_donors	disease_free_numeric_young_donors	disease_free_numeric_old_donors	dataset_n	cell_n
+brain	endothelial cell	193	1007	122	226	134	138172
+brain	T cell	114	585	85	127	17	35970
+blood	monocyte	127	201	64	68	14	157163
+breast	macrophage	63	30	50	1	9	60757
+lung	T cell	42	77	34	33	15	127201
+eye	fibroblast	31	117	31	107	18	733112
+lung	macrophage	35	221	31	37	20	327835
+eye	macrophage	30	113	30	112	13	146925
+lung	monocyte	31	108	30	37	17	55994
+pancreas	endothelial cell	40	9	28	3	7	12758
+small intestine	macrophage	43	28	26	28	11	42325
+small intestine	monocyte	48	18	25	17	8	4329
+blood	endothelial cell	27	99	24	48	4	658
+small intestine	fibroblast	48	17	24	17	10	55241
+eye	endothelial cell	23	89	23	80	11	44425
+adipose tissue	macrophage	23	10	23	10	7	56786
+adipose tissue	endothelial cell	23	9	23	9	7	39945
+respiratory system	T cell	21	8	21	7	6	1538
+lung	fibroblast	23	83	20	32	17	50656
+eye	monocyte	19	53	19	53	6	13858
+kidney	T cell	32	92	19	36	14	32884
+blood	macrophage	50	50	19	15	9	7544
+eye	T cell	18	77	18	68	9	52045
+colon	macrophage	20	20	17	17	8	14129
+colon	monocyte	19	20	17	16	7	6586
+kidney	endothelial cell	28	100	15	32	16	69961
+colon	fibroblast	17	33	15	22	9	56509
+lymph node	macrophage	36	146	15	22	11	136959
+heart	fibroblast	13	114	13	76	13	400745
+central nervous system	fibroblast	13	35	13	35	3	93871
+central nervous system	macrophage	13	33	13	33	2	6941
+adipose tissue	T cell	13	6	13	6	5	11551
+adipose tissue	monocyte	13	5	13	5	4	3740
+milk	macrophage	13	0	13	0	1	6384
+heart	endothelial cell	25	51	12	29	10	178308
+colon	endothelial cell	14	28	12	17	7	7631
+small intestine	T cell	29	15	12	15	5	35114
+small intestine	endothelial cell	27	13	12	13	5	24581
+mucosa	fibroblast	19	4	12	4	4	20744
+milk	T cell	12	0	12	0	1	792
+central nervous system	T cell	11	30	11	30	1	1632
+musculature	macrophage	11	24	11	21	8	15714
+kidney	monocyte	20	53	11	19	7	6150
+mucosa	T cell	18	14	11	14	4	8157
+mucosa	macrophage	18	1	11	1	3	3142
+colon	T cell	11	27	10	20	6	9830
+uterus	fibroblast	10	12	10	0	5	32989
+lung	endothelial cell	10	76	9	25	16	38149
+musculature	fibroblast	9	19	9	15	6	119498
+spleen	macrophage	9	13	9	13	6	24710
+respiratory system	monocyte	9	12	9	11	5	9186
+bone marrow	T cell	9	11	9	9	4	1344
+exocrine gland	fibroblast	10	8	9	7	4	19419
+bone marrow	macrophage	8	26	8	11	9	6509
+breast	fibroblast	17	26	8	1	10	321097
+liver	T cell	17	32	7	12	13	160708
+respiratory system	fibroblast	7	10	7	9	4	4915
+respiratory system	macrophage	7	8	7	7	5	7010
+immune system	T cell	7	0	7	0	1	267
+immune system	macrophage	7	0	7	0	1	149
+liver	macrophage	18	29	6	21	16	109647
+liver	endothelial cell	14	28	6	10	13	27764
+fallopian tube	macrophage	8	6	6	6	5	15489
+nose	T cell	8	6	6	4	3	396
+uterus	macrophage	6	0	6	0	3	3268
+skin of body	macrophage	6	25	5	19	10	50214
+lymph node	monocyte	22	121	5	11	6	12187
+lymph node	endothelial cell	25	131	5	10	8	48581
+exocrine gland	endothelial cell	7	9	5	6	4	10304
+musculature	T cell	5	9	5	6	7	6532
+esophagus	macrophage	5	5	5	3	4	2708
+large intestine	macrophage	5	41	4	21	4	20525
+large intestine	monocyte	5	43	4	21	6	15158
+liver	monocyte	13	10	4	8	10	54403
+ovary	endothelial cell	4	15	4	7	9	9747
+fallopian tube	endothelial cell	4	7	4	6	5	8414
+lymph node	fibroblast	24	126	4	5	5	67679
+endocrine gland	macrophage	4	3	4	3	5	2399
+esophagus	fibroblast	4	5	4	2	4	18350
+endocrine gland	T cell	4	1	4	1	5	24187
+tendon of semitendinosus	fibroblast	4	0	4	0	1	3468
+large intestine	fibroblast	4	48	3	27	6	16158
+stomach	fibroblast	3	31	3	18	4	15399
+skin of body	fibroblast	4	34	3	16	7	121388
+liver	fibroblast	14	29	3	7	13	24051
+brain	macrophage	13	99	3	6	16	370373
+skin of body	T cell	3	24	3	3	7	7011
+endocrine gland	fibroblast	3	2	3	2	5	19586
+endocrine gland	monocyte	3	2	3	2	6	572
+skin of body	endothelial cell	3	9	3	2	6	5408
+esophagus	monocyte	3	4	3	1	3	342
+heart	macrophage	2	90	2	57	8	51141
+stomach	monocyte	2	33	2	16	4	4791
+lymph node	T cell	5	13	2	6	8	26831
+digestive system	fibroblast	4	13	2	5	4	8580
+vasculature	fibroblast	2	26	2	4	5	41133
+vasculature	macrophage	2	28	2	4	5	60726
+adipose tissue	fibroblast	2	3	2	3	3	26401
+central nervous system	endothelial cell	2	3	2	3	2	647
+digestive system	macrophage	10	15	2	3	1	681
+esophagogastric junction	fibroblast	2	2	2	2	1	56
+esophagogastric junction	macrophage	2	2	2	2	1	67
+endocrine gland	endothelial cell	2	1	2	1	5	6396
+pancreas	macrophage	2	1	2	1	3	2509
+fallopian tube	fibroblast	4	1	2	0	3	13112
+skeletal system	fibroblast	7	1	2	0	6	9833
+stomach	macrophage	1	34	1	17	5	3797
+large intestine	T cell	2	42	1	16	5	7137
+brain	fibroblast	2	25	1	14	110	32659
+skin of body	monocyte	2	18	1	13	3	9001
+bone marrow	monocyte	1	7	1	3	3	2536
+digestive system	T cell	13	19	1	3	2	11945
+exocrine gland	T cell	2	5	1	3	3	2514
+exocrine gland	macrophage	1	3	1	3	3	2786
+spleen	T cell	1	3	1	3	4	5661
+spleen	monocyte	1	3	1	3	4	9492
+adrenal gland	endothelial cell	5	2	1	2	4	8918
+adrenal gland	fibroblast	5	2	1	2	4	12254
+adrenal gland	macrophage	5	2	1	2	5	15184
+bladder organ	T cell	1	2	1	2	2	875
+bladder organ	fibroblast	1	2	1	2	2	13846
+bladder organ	macrophage	1	2	1	2	2	3317
+bladder organ	monocyte	1	2	1	2	2	9392
+breast	T cell	4	19	1	2	8	123745
+esophagogastric junction	monocyte	1	2	1	2	1	36
+omentum	macrophage	1	2	1	2	2	758
+ovary	T cell	1	11	1	2	5	46262
+tongue	fibroblast	1	2	1	2	1	1531
+bladder organ	endothelial cell	1	1	1	1	2	903
+esophagus	T cell	1	1	1	1	2	478
+adrenal gland	T cell	5	0	1	0	3	4617
+adrenal gland	monocyte	1	0	1	0	1	563
+esophagus	endothelial cell	1	0	1	0	3	964
+omentum	T cell	1	22	1	0	2	58504
+omentum	endothelial cell	1	22	1	0	2	6812
+omentum	fibroblast	1	23	1	0	2	38426
+omentum	monocyte	1	22	1	0	2	36630
+ovary	macrophage	1	0	1	0	2	476
+ovary	monocyte	1	7	1	0	3	33748
+pancreas	T cell	1	0	1	0	2	7401
+pancreas	fibroblast	1	0	1	0	2	239
+pancreas	monocyte	1	0	1	0	2	105
+skeletal system	T cell	6	2	1	0	5	2527
+skeletal system	endothelial cell	5	1	1	0	4	471
+skeletal system	macrophage	6	2	1	0	6	1124
+urinary bladder	T cell	1	0	1	0	2	873
+urinary bladder	endothelial cell	1	0	1	0	2	2505
+urinary bladder	fibroblast	1	0	1	0	2	11322
+urinary bladder	macrophage	1	0	1	0	1	405
+urinary bladder	monocyte	1	0	1	0	2	1758
+uterus	T cell	1	12	1	0	3	32457
+uterus	endothelial cell	1	12	1	0	3	12717
+uterus	monocyte	1	12	1	0	3	47039
+kidney	fibroblast	0	17	0	13	9	4894
+kidney	macrophage	0	15	0	10	8	31677
+ureter	T cell	0	10	0	10	2	3052
+ureter	endothelial cell	0	10	0	10	3	709
+ureter	fibroblast	0	10	0	10	3	2727
+heart	monocyte	0	10	0	8	4	2792
+intestine	T cell	0	12	0	5	3	18825
+stomach	endothelial cell	0	9	0	5	3	1006
+digestive system	endothelial cell	2	12	0	4	2	2681
+intestine	fibroblast	0	11	0	4	4	9497
+large intestine	endothelial cell	0	7	0	4	4	1876
+heart	T cell	0	5	0	3	4	23279
+musculature	endothelial cell	0	4	0	3	3	5373
+musculature	monocyte	0	4	0	3	4	3743
+respiratory system	endothelial cell	0	3	0	3	3	2580
+spleen	endothelial cell	0	3	0	3	3	11920
+exocrine gland	monocyte	0	2	0	2	1	99
+intestine	endothelial cell	0	9	0	2	4	2488
+lamina propria	macrophage	0	2	0	2	1	571
+ovary	fibroblast	0	11	0	2	3	50949
+prostate gland	T cell	0	21	0	2	4	10225
+prostate gland	macrophage	0	21	0	2	4	2925
+stomach	T cell	0	2	0	2	2	294
+tongue	T cell	0	2	0	2	1	194
+tongue	endothelial cell	0	2	0	2	1	1221
+tongue	macrophage	0	2	0	2	1	570
+vasculature	T cell	0	25	0	2	3	99460
+vasculature	endothelial cell	0	24	0	2	4	14958
+vasculature	monocyte	0	25	0	2	3	13043
+bone marrow	endothelial cell	0	1	0	1	4	3882
+bone marrow	fibroblast	0	1	0	1	2	94
+brain	monocyte	8	55	0	1	7	42191
+intestine	macrophage	0	1	0	1	2	358
+intestine	monocyte	0	6	0	1	3	14309
+peripheral nervous system	macrophage	0	1	0	1	1	11
+prostate gland	endothelial cell	0	20	0	1	3	4755
+prostate gland	fibroblast	0	1	0	1	1	519
+sensory system	macrophage	0	1	0	1	1	265
+sensory system	monocyte	0	1	0	1	1	2
+spleen	fibroblast	0	1	0	1	3	34459
+testis	endothelial cell	0	1	0	1	2	244
+testis	macrophage	0	1	0	1	2	21
+testis	monocyte	0	1	0	1	2	13
+tongue	monocyte	0	1	0	1	1	139
+ureter	monocyte	0	1	0	1	1	82
+abdomen	T cell	10	16	0	0	2	92008
+abdomen	endothelial cell	10	6	0	0	2	8619
+abdomen	fibroblast	10	11	0	0	2	57216
+abdomen	macrophage	10	0	0	0	1	10291
+abdomen	monocyte	0	16	0	0	1	55020
+axilla	T cell	4	0	0	0	3	13792
+axilla	endothelial cell	1	0	0	0	2	684
+axilla	fibroblast	4	0	0	0	3	10645
+axilla	macrophage	4	0	0	0	3	11594
+axilla	monocyte	2	0	0	0	1	343
+blood	fibroblast	0	0	0	0	1	1
+breast	endothelial cell	9	33	0	0	7	35191
+breast	monocyte	3	8	0	0	2	2421
+central nervous system	monocyte	0	0	0	0	1	915
+cerebrospinal fluid	macrophage	2	8	0	0	1	4893
+cerebrospinal fluid	monocyte	2	8	0	0	1	4683
+chest	T cell	0	0	0	0	1	211
+chest	endothelial cell	0	0	0	0	1	236
+chest	fibroblast	0	0	0	0	1	1103
+chest	macrophage	0	0	0	0	1	2063
+chest wall	T cell	1	0	0	0	1	1111
+chest wall	fibroblast	1	0	0	0	1	2342
+chest wall	macrophage	1	0	0	0	1	2611
+cortex	fibroblast	0	0	0	0	1	17
+cortex	macrophage	0	0	0	0	1	484
+embryo	T cell	0	0	0	0	1	6
+embryo	endothelial cell	0	0	0	0	2	12409
+embryo	fibroblast	0	0	0	0	2	4854
+embryo	macrophage	0	0	0	0	1	4679
+embryo	monocyte	0	0	0	0	1	5
+fallopian tube	T cell	0	1	0	0	2	2638
+fallopian tube	monocyte	0	1	0	0	2	1900
+forelimb	fibroblast	0	0	0	0	1	121
+forelimb	macrophage	0	0	0	0	1	135
+forelimb	monocyte	0	0	0	0	1	23
+gallbladder	T cell	0	0	0	0	1	20
+gallbladder	endothelial cell	0	0	0	0	1	174
+gallbladder	fibroblast	0	0	0	0	1	6805
+gallbladder	macrophage	0	0	0	0	1	1467
+gallbladder	monocyte	0	0	0	0	1	3
+head	fibroblast	0	0	0	0	1	5983
+head	macrophage	0	0	0	0	1	31
+hindlimb	fibroblast	0	0	0	0	1	4529
+hindlimb	macrophage	0	0	0	0	1	453
+hindlimb	monocyte	0	0	0	0	1	208
+milk	fibroblast	0	0	0	0	1	140
+mucosa	endothelial cell	0	0	0	0	1	93
+neck	T cell	1	0	0	0	2	1760
+neck	endothelial cell	1	0	0	0	2	569
+neck	fibroblast	1	0	0	0	2	1591
+neck	macrophage	1	0	0	0	2	1514
+neck	monocyte	0	0	0	0	1	16
+nose	fibroblast	0	0	0	0	1	1
+nose	macrophage	1	3	0	0	1	244
+nose	monocyte	2	3	0	0	1	5452
+paracolic gutter	T cell	0	0	0	0	1	2007
+paracolic gutter	endothelial cell	0	0	0	0	1	464
+paracolic gutter	fibroblast	0	0	0	0	1	1781
+paracolic gutter	monocyte	0	0	0	0	1	1200
+placenta	T cell	0	0	0	0	3	8789
+placenta	endothelial cell	0	0	0	0	2	1392
+placenta	fibroblast	0	0	0	0	3	35785
+placenta	macrophage	0	0	0	0	4	45091
+placenta	monocyte	0	0	0	0	2	52
+pleura	T cell	0	0	0	0	1	52
+pleura	endothelial cell	0	0	0	0	1	14
+pleura	fibroblast	0	0	0	0	1	15156
+pleura	macrophage	0	0	0	0	1	237
+pleura	monocyte	0	0	0	0	1	384
+pleural fluid	T cell	0	2	0	0	2	14771
+pleural fluid	fibroblast	0	1	0	0	1	7
+pleural fluid	macrophage	0	2	0	0	3	3047
+prostate gland	monocyte	0	19	0	0	2	868
+reproductive system	endothelial cell	0	0	0	0	2	14484
+reproductive system	macrophage	0	0	0	0	1	7439
+reproductive system	monocyte	0	0	0	0	1	1945
+saliva	macrophage	2	4	0	0	1	1251
+saliva	monocyte	2	4	0	0	1	199
+skeletal system	monocyte	2	1	0	0	3	673
+spinal cord	T cell	0	0	0	0	1	33
+spinal cord	endothelial cell	0	0	0	0	2	247
+spinal cord	fibroblast	0	0	0	0	2	69
+spinal cord	macrophage	0	0	0	0	1	159
+spinal cord	monocyte	0	0	0	0	1	54
+testis	T cell	0	0	0	0	1	2
+testis	fibroblast	0	0	0	0	1	7688
+ureter	macrophage	0	0	0	0	1	4
+yolk sac	T cell	0	0	0	0	1	3
+yolk sac	endothelial cell	0	0	0	0	1	1525
+yolk sac	fibroblast	0	0	0	0	1	273
+yolk sac	macrophage	0	0	0	0	1	20811
+yolk sac	monocyte	0	0	0	0	1	339

@@ -1,0 +1,4 @@
+dataset_id	model	heldout_donors	heldout_cells	young_donors	old_donors	disease_composition	assay_composition	sex_composition	auroc	auprc	balanced_accuracy
+c838aec3-03ef-4398-b882-0e3912abfff0	metadata_confounder_logistic	98	767	58	40	normal=767	10x 5' v2=767	female=429; male=338	0.5524881767487824	0.4330403330950078	0.5524881767487824
+c838aec3-03ef-4398-b882-0e3912abfff0	scVI_embedding_logistic	98	767	58	40	normal=767	10x 5' v2=767	female=429; male=338	0.518571327733465	0.40269683850090543	0.5343580151055269
+c838aec3-03ef-4398-b882-0e3912abfff0	TranscriptFormer_embedding_logistic	98	767	58	40	normal=767	10x 5' v2=767	female=429; male=338	0.6301828192277829	0.5389425056163277	0.5507023364156137
