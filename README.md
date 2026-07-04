@@ -4,7 +4,9 @@ This repository contains the manuscript, analysis scripts, benchmark outputs, fi
 
 The completed empirical benchmark is limited to blood T cells and evaluates public metadata-derived young-versus-old labels under random-cell, donor-holdout, grouped dataset-holdout, disease-free, label-shuffling, leave-one-dataset-out, confounding, and sampling-depth diagnostics.
 
-The project does not directly benchmark Geneformer, scGPT, scFoundation, GeneCompass, or all single-cell foundation models, and the outputs should not be interpreted as a clinically validated aging clock.
+The project does not directly benchmark Geneformer, scGPT, scFoundation, GeneCompass, or all single-cell foundation models. The outputs are not a clinically validated aging clock.
+
+Archived record: https://doi.org/10.5281/zenodo.21188101
 
 ## Key files
 
