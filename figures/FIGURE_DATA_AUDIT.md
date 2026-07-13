@@ -1,0 +1,15 @@
+# Figure Data Audit
+
+| Panel | Purpose | Data file(s) | Fields | Sample size/value | Directly drawable | Missingness/limits | Recalculation | Leakage concern |
+|---|---|---|---|---|---|---|---|---|
+| Figure 1A | Benchmark construction | blood_tcell_embedding_benchmark_audit.json; blood_tcell_embedding_sample_all.tsv | sample_all_cells, sample_all_donors, dataset_id, age_group, cell_type | 1075 cells; 140 donors; 13 datasets | Yes | No major missing values for plotted fields | No | Low: descriptive counts only |
+| Figure 1B | Representation/model schematic | blood_tcell_embedding_benchmark_audit.json | embeddings.name, embeddings.n_features | scVI 50 features; TranscriptFormer 2048 features | Yes | Raw-expression baseline absent | No | Low: schematic only |
+| Figure 1C | Risk map | ISCLS manuscript audit framework | risk/control descriptions | 10 risk classes mapped in manuscript | Yes | No quantitative input | No | Risk arrows labeled as potential pathways |
+| Figure 1D | Validation strategies | upgrade_audit.json; lodo_dataset_holdout_metrics.tsv | seeds, dataset_id | 30 seeds; one eligible LODO dataset | Yes | LODO limited by class balance | No | Explicitly labels limited diagnostic |
+| Figure 1E | Diagnostic controls | results summary and audit reports | available metrics and controls | AUROC/AUPRC/balanced accuracy; metadata-only; disease-free; label shuffle; sampling depth | Yes | Brier/bootstrap/permutation absent | No | Absent analyses not displayed as completed |
+| Figure 1F | Core AUROC summary | blood_tcell_30seed_results_summary.tsv; lodo_dataset_holdout_metrics.tsv | model, split, auroc_mean, ci columns | 30 seed summaries | Yes | Intervals are split variability | No | Does not call seeds external cohorts |
+| Figure 2A-C | Embedding projection | transcriptformer_1075_a9ebd705da975e78.npz; sample metadata | X, cell_type, age_group, dataset_id | scvi.exists()=True; tf.exists()=True | Yes | T-cell subtype unavailable; PCA used instead of UMAP | PCA computed for visualization | Projection not used for model performance |
+| Figure 2D | Donor metadata heatmap | blood_tcell_embedding_sample_all.tsv | donor_id, age_group, dataset_id, disease, sex, assay, soma_joinid | 140 donors | Yes | Categorical encoding for visualization | Donor-level aggregation | No test-set information used |
+| Figure 2E | Donor metadata composition | blood_tcell_embedding_sample_all.tsv | donor_id, age_group, disease, assay, sex | Donor-level proportions | Yes | No T-cell subtype composition available | Donor modes and proportions | Avoids cell-weighting donors |
+| Figure 2F | 30-seed performance | blood_tcell_30seed_results_long.tsv; summary.tsv | auroc, model, split, seed | 30 seeds per displayed combination | Yes | Seed variability only | No | No independent cohort claim |
+| Figure 2G | Paired differences | paired_model_comparisons.tsv | mean_auroc_difference_a_minus_b, ci95_low, ci95_high | Seed-matched differences | Yes | Bootstrap/permutation not available | No | Zero-crossing intervals not called superiority |
