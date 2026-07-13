@@ -59,3 +59,8 @@ The Discussion now centers on methodological interpretation: random-cell optimis
 ## Readiness Judgment
 
 **READY WITH MINOR MANUAL CHECKS.** The scientific framing, double-blind files, title page, cover letter, and audit reports are prepared. Manual confirmation is still needed for funding, author contributions, local ethics policy, and whether repository/DOI disclosure should remain only on the title page during double-blind review.
+
+
+## Figure Integration Update
+
+New multipanel Figure 1 and Figure 2 from `figures/iscls_multpanel_figures/` were inserted into the blinded main manuscript. The previous detailed performance, metadata, LODO and sampling-depth figures were moved to the supplementary information as Supplementary Figures S1-S5.

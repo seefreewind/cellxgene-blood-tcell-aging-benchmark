@@ -20,3 +20,8 @@ Selected title: **A leakage-aware computational benchmark of hosted single-cell 
 - Rewrote the Discussion to compare findings with prior validation, batch-effect, dataset-shift, and benchmark literature while preserving conservative study boundaries.
 - Added a raw-expression baseline feasibility report rather than fabricating unsupported expression-baseline results.
 - Created independent blinded manuscript, title page, supplementary information, cover letter, and audit reports for ISCLS submission preparation.
+
+
+## Figure Integration Update
+
+New multipanel Figure 1 and Figure 2 from `figures/iscls_multpanel_figures/` were inserted into the blinded main manuscript. The previous detailed performance, metadata, LODO and sampling-depth figures were moved to the supplementary information as Supplementary Figures S1-S5.
